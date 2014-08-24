@@ -1,1572 +1,1572 @@
 {
   "nodes": [
     {
-      "match": 1.0,
+      "cluster": 1,
       "name": "Paparazzi",
-      "artist": "Lady Gaga",
+      "email": "Lady Gaga",
       "id": "paparazzi_lady_gaga",
-      "playcount": 7822055
+      "influence": 7822055
     },
     {
-      "match": 0.93449,
+      "cluster": 1,
       "name": "Bad Romance",
-      "artist": "Lady Gaga",
+      "email": "Lady Gaga",
       "id": "bad_romance_lady_gaga",
-      "playcount": 9835214
+      "influence": 9835214
     },
     {
-      "match": 0.304689,
+      "cluster": 1,
       "name": "TiK ToK",
-      "artist": "Ke$ha",
+      "email": "Ke$ha",
       "id": "tik_tok_keha",
-      "playcount": 7332582
+      "influence": 7332582
     },
     {
-      "match": 0.268232,
+      "cluster": 1,
       "name": "S&M",
-      "artist": "Rihanna",
+      "email": "Rihanna",
       "id": "sm_rihanna",
-      "playcount": 3489930
+      "influence": 3489930
     },
     {
-      "match": 0.267948,
+      "cluster": 1,
       "name": "Only Girl (In the World)",
-      "artist": "Rihanna",
+      "email": "Rihanna",
       "id": "only_girl_in_the_world_rihanna",
-      "playcount": 4775088
+      "influence": 4775088
     },
     {
-      "match": 0.267777,
+      "cluster": 1,
       "name": "We R Who We R",
-      "artist": "Ke$ha",
+      "email": "Ke$ha",
       "id": "we_r_who_we_r_keha",
-      "playcount": 2886516
+      "influence": 2886516
     },
     {
-      "match": 0.25547,
+      "cluster": 1,
       "name": "Toxic",
-      "artist": "Britney Spears",
+      "email": "Britney Spears",
       "id": "toxic_britney_spears",
-      "playcount": 3712890
+      "influence": 3712890
     },
     {
-      "match": 0.255235,
+      "cluster": 1,
       "name": "I Kissed a Girl",
-      "artist": "Katy Perry",
+      "email": "Katy Perry",
       "id": "i_kissed_a_girl_katy_perry",
-      "playcount": 6366623
+      "influence": 6366623
     },
     {
-      "match": 0.249098,
+      "cluster": 1,
       "name": "Till The World Ends",
-      "artist": "Britney Spears",
+      "email": "Britney Spears",
       "id": "till_the_world_ends_britney_spears",
-      "playcount": 3997509
+      "influence": 3997509
     },
     {
-      "match": 0.245299,
+      "cluster": 1,
       "name": "Hung Up",
-      "artist": "Madonna",
+      "email": "Madonna",
       "id": "hung_up_madonna",
-      "playcount": 3029692
+      "influence": 3029692
     },
     {
-      "match": 0.230082,
+      "cluster": 1,
       "name": "Hot N Cold",
-      "artist": "Katy Perry",
+      "email": "Katy Perry",
       "id": "hot_n_cold_katy_perry",
-      "playcount": 6328777
+      "influence": 6328777
     },
     {
-      "match": 0.220354,
+      "cluster": 1,
       "name": "Not Myself Tonight",
-      "artist": "Christina Aguilera",
+      "email": "Christina Aguilera",
       "id": "not_myself_tonight_christina_aguilera",
-      "playcount": 2504457
+      "influence": 2504457
     },
     {
-      "match": 0.205395,
+      "cluster": 1,
       "name": "Mirrors",
-      "artist": "Natalia Kills",
+      "email": "Natalia Kills",
       "id": "mirrors_natalia_kills",
-      "playcount": 1180380
+      "influence": 1180380
     },
     {
-      "match": 0.201188,
+      "cluster": 1,
       "name": "Sorry",
-      "artist": "Madonna",
+      "email": "Madonna",
       "id": "sorry_madonna",
-      "playcount": 1997475
+      "influence": 1997475
     },
     {
-      "match": 0.196835,
+      "cluster": 1,
       "name": "Papi",
-      "artist": "Jennifer Lopez",
+      "email": "Jennifer Lopez",
       "id": "papi_jennifer_lopez",
-      "playcount": 629395
+      "influence": 629395
     },
     {
-      "match": 0.188976,
+      "cluster": 1,
       "name": "On the Floor (feat. Pitbull)",
-      "artist": "Jennifer Lopez",
+      "email": "Jennifer Lopez",
       "id": "on_the_floor_feat_pitbull_jennifer_lopez",
-      "playcount": 2420886
+      "influence": 2420886
     },
     {
-      "match": 1.0,
+      "cluster": 1,
       "name": "Alejandro",
-      "artist": "Lady Gaga",
+      "email": "Lady Gaga",
       "id": "alejandro_lady_gaga",
-      "playcount": 7314095
+      "influence": 7314095
     },
     {
-      "match": 0.951622,
+      "cluster": 1,
       "name": "Poker Face",
-      "artist": "Lady Gaga",
+      "email": "Lady Gaga",
       "id": "poker_face_lady_gaga",
-      "playcount": 10846704
+      "influence": 10846704
     },
     {
-      "match": 0.257456,
+      "cluster": 1,
       "name": "Hold It Against Me",
-      "artist": "Britney Spears",
+      "email": "Britney Spears",
       "id": "hold_it_against_me_britney_spears",
-      "playcount": 5251518
+      "influence": 5251518
     },
     {
-      "match": 0.225985,
+      "cluster": 1,
       "name": "Last Friday Night (T.G.I.F.)",
-      "artist": "Katy Perry",
+      "email": "Katy Perry",
       "id": "last_friday_night_tgif_katy_perry",
-      "playcount": 3495395
+      "influence": 3495395
     },
     {
-      "match": 0.220097,
+      "cluster": 1,
       "name": "Peacock",
-      "artist": "Katy Perry",
+      "email": "Katy Perry",
       "id": "peacock_katy_perry",
-      "playcount": 2000812
+      "influence": 2000812
     },
     {
-      "match": 0.196237,
+      "cluster": 1,
       "name": "Starships",
-      "artist": "Nicki Minaj",
+      "email": "Nicki Minaj",
       "id": "starships_nicki_minaj",
-      "playcount": 1806683
+      "influence": 1806683
     },
     {
-      "match": 0.187942,
+      "cluster": 1,
       "name": "Get Outta My Way",
-      "artist": "Kylie Minogue",
+      "email": "Kylie Minogue",
       "id": "get_outta_my_way_kylie_minogue",
-      "playcount": 1590633
+      "influence": 1590633
     },
     {
-      "match": 0.178599,
+      "cluster": 1,
       "name": "Bionic",
-      "artist": "Christina Aguilera",
+      "email": "Christina Aguilera",
       "id": "bionic_christina_aguilera",
-      "playcount": 966026
+      "influence": 966026
     },
     {
-      "match": 0.175565,
+      "cluster": 1,
       "name": "Kill My Boyfriend",
-      "artist": "Natalia Kills",
+      "email": "Natalia Kills",
       "id": "kill_my_boyfriend_natalia_kills",
-      "playcount": 142693
+      "influence": 142693
     },
     {
-      "match": 0.174766,
+      "cluster": 1,
       "name": "Poison",
-      "artist": "Nicole Scherzinger",
+      "email": "Nicole Scherzinger",
       "id": "poison_nicole_scherzinger",
-      "playcount": 636261
+      "influence": 636261
     },
     {
-      "match": 0.169552,
+      "cluster": 1,
       "name": "In The Dark",
-      "artist": "Dev",
+      "email": "Dev",
       "id": "in_the_dark_dev",
-      "playcount": 864653
+      "influence": 864653
     },
     {
-      "match": 0.168305,
+      "cluster": 1,
       "name": "Can't Get You Out of My Head",
-      "artist": "Kylie Minogue",
+      "email": "Kylie Minogue",
       "id": "cant_get_you_out_of_my_head_kylie_minogue",
-      "playcount": 1638154
+      "influence": 1638154
     },
     {
-      "match": 0.160747,
+      "cluster": 1,
       "name": "I Gotta Feeling",
-      "artist": "Black Eyed Peas",
+      "email": "Black Eyed Peas",
       "id": "i_gotta_feeling_black_eyed_peas",
-      "playcount": 5260768
+      "influence": 5260768
     },
     {
-      "match": 0.157658,
+      "cluster": 1,
       "name": "She Wolf",
-      "artist": "Shakira",
+      "email": "Shakira",
       "id": "she_wolf_shakira",
-      "playcount": 2560264
+      "influence": 2560264
     },
     {
-      "match": 0.157202,
+      "cluster": 1,
       "name": "Automatic",
-      "artist": "Nicki Minaj",
+      "email": "Nicki Minaj",
       "id": "automatic_nicki_minaj",
-      "playcount": 281590
+      "influence": 281590
     },
     {
-      "match": 0.151916,
+      "cluster": 1,
       "name": "Hollaback Girl",
-      "artist": "Gwen Stefani",
+      "email": "Gwen Stefani",
       "id": "hollaback_girl_gwen_stefani",
-      "playcount": 2194488
+      "influence": 2194488
     },
     {
-      "match": 1.0,
+      "cluster": 1,
       "name": "Your Love Is My Drug",
-      "artist": "Ke$ha",
+      "email": "Ke$ha",
       "id": "your_love_is_my_drug_keha",
-      "playcount": 3395504
+      "influence": 3395504
     },
     {
-      "match": 0.974881,
+      "cluster": 1,
       "name": "Take It Off",
-      "artist": "Ke$ha",
+      "email": "Ke$ha",
       "id": "take_it_off_keha",
-      "playcount": 3068916
+      "influence": 3068916
     },
     {
-      "match": 0.360593,
+      "cluster": 1,
       "name": "California Gurls (feat. Snoop Dogg)",
-      "artist": "Katy Perry",
+      "email": "Katy Perry",
       "id": "california_gurls_feat_snoop_dogg_katy_perry",
-      "playcount": 4776000
+      "influence": 4776000
     },
     {
-      "match": 0.343821,
+      "cluster": 1,
       "name": "Dynamite",
-      "artist": "Taio Cruz",
+      "email": "Taio Cruz",
       "id": "dynamite_taio_cruz",
-      "playcount": 2892870
+      "influence": 2892870
     },
     {
-      "match": 0.340364,
+      "cluster": 1,
       "name": "I Wanna Go",
-      "artist": "Britney Spears",
+      "email": "Britney Spears",
       "id": "i_wanna_go_britney_spears",
-      "playcount": 3023992
+      "influence": 3023992
     },
     {
-      "match": 0.263842,
+      "cluster": 1,
       "name": "Like A G6",
-      "artist": "Far East Movement",
+      "email": "Far East Movement",
       "id": "like_a_g6_far_east_movement",
-      "playcount": 2533109
+      "influence": 2533109
     },
     {
-      "match": 0.245671,
+      "cluster": 1,
       "name": "Evacuate The Dancefloor",
-      "artist": "Cascada",
+      "email": "Cascada",
       "id": "evacuate_the_dancefloor_cascada",
-      "playcount": 1263290
+      "influence": 1263290
     },
     {
-      "match": 0.24536,
+      "cluster": 1,
       "name": "You Make Me Feel... (feat. Sabi)",
-      "artist": "Cobra Starship",
+      "email": "Cobra Starship",
       "id": "you_make_me_feel_feat_sabi_cobra_starship",
-      "playcount": 232666
+      "influence": 232666
     },
     {
-      "match": 0.244852,
+      "cluster": 1,
       "name": "Party Rock Anthem",
-      "artist": "LMFAO",
+      "email": "LMFAO",
       "id": "party_rock_anthem_lmfao",
-      "playcount": 2142645
+      "influence": 2142645
     },
     {
-      "match": 0.242013,
+      "cluster": 1,
       "name": "Little Bad Girl (feat. Taio Cruz & Ludacris)",
-      "artist": "David Guetta",
+      "email": "David Guetta",
       "id": "little_bad_girl_feat_taio_cruz__ludacris_david_guetta",
-      "playcount": 519372
+      "influence": 519372
     },
     {
-      "match": 0.234617,
+      "cluster": 1,
       "name": "Domino",
-      "artist": "Jessie J",
+      "email": "Jessie J",
       "id": "domino_jessie_j",
-      "playcount": 1333046
+      "influence": 1333046
     },
     {
-      "match": 0.233562,
+      "cluster": 1,
       "name": "Sexy And I Know It",
-      "artist": "LMFAO",
+      "email": "LMFAO",
       "id": "sexy_and_i_know_it_lmfao",
-      "playcount": 2047902
+      "influence": 2047902
     },
     {
-      "match": 0.222037,
+      "cluster": 1,
       "name": "Mr. Saxobeat",
-      "artist": "Alexandra Stan",
+      "email": "Alexandra Stan",
       "id": "mr_saxobeat_alexandra_stan",
-      "playcount": 1072681
+      "influence": 1072681
     },
     {
-      "match": 0.21913,
+      "cluster": 1,
       "name": "Single Ladies (Put A Ring On It)",
-      "artist": "Beyoncé",
+      "email": "Beyoncé",
       "id": "single_ladies_put_a_ring_on_it_beyonc",
-      "playcount": 3117343
+      "influence": 3117343
     },
     {
-      "match": 0.218157,
+      "cluster": 1,
       "name": "Hit the Lights",
-      "artist": "Selena Gomez & the Scene",
+      "email": "Selena Gomez & the Scene",
       "id": "hit_the_lights_selena_gomez__the_scene",
-      "playcount": 550586
+      "influence": 550586
     },
     {
-      "match": 0.21686,
+      "cluster": 1,
       "name": "Unbroken",
-      "artist": "Demi Lovato",
+      "email": "Demi Lovato",
       "id": "unbroken_demi_lovato",
-      "playcount": 413664
+      "influence": 413664
     },
     {
-      "match": 0.725025,
+      "cluster": 1,
       "name": "Fading",
-      "artist": "Rihanna",
+      "email": "Rihanna",
       "id": "fading_rihanna",
-      "playcount": 866945
+      "influence": 866945
     },
     {
-      "match": 0.374398,
+      "cluster": 1,
       "name": "Judas",
-      "artist": "Lady Gaga",
+      "email": "Lady Gaga",
       "id": "judas_lady_gaga",
-      "playcount": 6294628
+      "influence": 6294628
     },
     {
-      "match": 0.349024,
+      "cluster": 1,
       "name": "Blow",
-      "artist": "Ke$ha",
+      "email": "Ke$ha",
       "id": "blow_keha",
-      "playcount": 1795023
+      "influence": 1795023
     },
     {
-      "match": 0.343837,
+      "cluster": 1,
       "name": "Born This Way",
-      "artist": "Lady Gaga",
+      "email": "Lady Gaga",
       "id": "born_this_way_lady_gaga",
-      "playcount": 6876893
+      "influence": 6876893
     },
     {
-      "match": 0.31129,
+      "cluster": 1,
       "name": "Run the World (Girls)",
-      "artist": "Beyoncé",
+      "email": "Beyoncé",
       "id": "run_the_world_girls_beyonc",
-      "playcount": 1769337
+      "influence": 1769337
     },
     {
-      "match": 0.271703,
+      "cluster": 1,
       "name": "Fly (feat. Rihanna)",
-      "artist": "Nicki Minaj",
+      "email": "Nicki Minaj",
       "id": "fly_feat_rihanna_nicki_minaj",
-      "playcount": 487352
+      "influence": 487352
     },
     {
-      "match": 0.248923,
+      "cluster": 1,
       "name": "Don't Hold Your Breath",
-      "artist": "Nicole Scherzinger",
+      "email": "Nicole Scherzinger",
       "id": "dont_hold_your_breath_nicole_scherzinger",
-      "playcount": 931674
+      "influence": 931674
     },
     {
-      "match": 0.243756,
+      "cluster": 1,
       "name": "Sweet Dreams",
-      "artist": "Beyoncé",
+      "email": "Beyoncé",
       "id": "sweet_dreams_beyonc",
-      "playcount": 3386749
+      "influence": 3386749
     },
     {
-      "match": 0.237582,
+      "cluster": 1,
       "name": "Moves Like Jagger (feat. Christina Aguilera)",
-      "artist": "Maroon 5",
+      "email": "Maroon 5",
       "id": "moves_like_jagger_feat_christina_aguilera_maroon_5",
-      "playcount": 1566307
+      "influence": 1566307
     },
     {
-      "match": 0.221018,
+      "cluster": 1,
       "name": "Girl Gone Wild",
-      "artist": "Madonna",
+      "email": "Madonna",
       "id": "girl_gone_wild_madonna",
-      "playcount": 1268423
+      "influence": 1268423
     },
     {
-      "match": 0.219465,
+      "cluster": 1,
       "name": "Rabiosa (feat. Pitbull)",
-      "artist": "Shakira",
+      "email": "Shakira",
       "id": "rabiosa_feat_pitbull_shakira",
-      "playcount": 489338
+      "influence": 489338
     },
     {
-      "match": 0.21936,
+      "cluster": 1,
       "name": "Who's Laughing Now",
-      "artist": "Jessie J",
+      "email": "Jessie J",
       "id": "whos_laughing_now_jessie_j",
-      "playcount": 654267
+      "influence": 654267
     },
     {
-      "match": 0.212575,
+      "cluster": 1,
       "name": "Who Owns My Heart",
-      "artist": "Miley Cyrus",
+      "email": "Miley Cyrus",
       "id": "who_owns_my_heart_miley_cyrus",
-      "playcount": 947464
+      "influence": 947464
     },
     {
-      "match": 0.210714,
+      "cluster": 1,
       "name": "Yeah 3X",
-      "artist": "Chris Brown",
+      "email": "Chris Brown",
       "id": "yeah_3x_chris_brown",
-      "playcount": 1107810
+      "influence": 1107810
     },
     {
-      "match": 0.191344,
+      "cluster": 1,
       "name": "Mr. Know It All",
-      "artist": "Kelly Clarkson",
+      "email": "Kelly Clarkson",
       "id": "mr_know_it_all_kelly_clarkson",
-      "playcount": 845032
+      "influence": 845032
     },
     {
-      "match": 0.189199,
+      "cluster": 1,
       "name": "More",
-      "artist": "Usher",
+      "email": "Usher",
       "id": "more_usher",
-      "playcount": 649385
+      "influence": 649385
     },
     {
-      "match": 0.380514,
+      "cluster": 1,
       "name": "Firework",
-      "artist": "Katy Perry",
+      "email": "Katy Perry",
       "id": "firework_katy_perry",
-      "playcount": 4889801
+      "influence": 4889801
     },
     {
-      "match": 0.340983,
+      "cluster": 1,
       "name": "The Edge of Glory",
-      "artist": "Lady Gaga",
+      "email": "Lady Gaga",
       "id": "the_edge_of_glory_lady_gaga",
-      "playcount": 3321279
+      "influence": 3321279
     },
     {
-      "match": 0.222595,
+      "cluster": 1,
       "name": "Titanium (feat. Sia)",
-      "artist": "David Guetta",
+      "email": "David Guetta",
       "id": "titanium_feat_sia_david_guetta",
-      "playcount": 1636872
+      "influence": 1636872
     },
     {
-      "match": 0.213158,
+      "cluster": 1,
       "name": "Promise This",
-      "artist": "Cheryl Cole",
+      "email": "Cheryl Cole",
       "id": "promise_this_cheryl_cole",
-      "playcount": 701346
+      "influence": 701346
     },
     {
-      "match": 0.212877,
+      "cluster": 1,
       "name": "Marry You",
-      "artist": "Bruno Mars",
+      "email": "Bruno Mars",
       "id": "marry_you_bruno_mars",
-      "playcount": 1328439
+      "influence": 1328439
     },
     {
-      "match": 0.212653,
+      "cluster": 1,
       "name": "The Time (Dirty Bit)",
-      "artist": "Black Eyed Peas",
+      "email": "Black Eyed Peas",
       "id": "the_time_dirty_bit_black_eyed_peas",
-      "playcount": 1673052
+      "influence": 1673052
     },
     {
-      "match": 0.204477,
+      "cluster": 1,
       "name": "All Fired Up",
-      "artist": "The Saturdays",
+      "email": "The Saturdays",
       "id": "all_fired_up_the_saturdays",
-      "playcount": 312634
+      "influence": 312634
     },
     {
-      "match": 0.193055,
+      "cluster": 1,
       "name": "Happiness",
-      "artist": "Alexis Jordan",
+      "email": "Alexis Jordan",
       "id": "happiness_alexis_jordan",
-      "playcount": 676454
+      "influence": 676454
     },
     {
-      "match": 0.18752,
+      "cluster": 1,
       "name": "When I Grow Up",
-      "artist": "The Pussycat Dolls",
+      "email": "The Pussycat Dolls",
       "id": "when_i_grow_up_the_pussycat_dolls",
-      "playcount": 2260239
+      "influence": 2260239
     },
     {
-      "match": 0.186072,
+      "cluster": 1,
       "name": "Price Tag (feat. B.o.B)",
-      "artist": "Jessie J",
+      "email": "Jessie J",
       "id": "price_tag_feat_bob_jessie_j",
-      "playcount": 514271
+      "influence": 514271
     },
     {
-      "match": 0.179363,
+      "cluster": 1,
       "name": "Maneater",
-      "artist": "Nelly Furtado",
+      "email": "Nelly Furtado",
       "id": "maneater_nelly_furtado",
-      "playcount": 3269975
+      "influence": 3269975
     },
     {
-      "match": 0.178794,
+      "cluster": 1,
       "name": "A Year Without Rain",
-      "artist": "Selena Gomez & the Scene",
+      "email": "Selena Gomez & the Scene",
       "id": "a_year_without_rain_selena_gomez__the_scene",
-      "playcount": 861494
+      "influence": 861494
     },
     {
-      "match": 0.17731,
+      "cluster": 1,
       "name": "Commander",
-      "artist": "Kelly Rowland",
+      "email": "Kelly Rowland",
       "id": "commander_kelly_rowland",
-      "playcount": 1010624
+      "influence": 1010624
     },
     {
-      "match": 0.176819,
+      "cluster": 1,
       "name": "Break Your Heart",
-      "artist": "Taio Cruz",
+      "email": "Taio Cruz",
       "id": "break_your_heart_taio_cruz",
-      "playcount": 2469211
+      "influence": 2469211
     },
     {
-      "match": 0.174837,
+      "cluster": 1,
       "name": "Glad You Came",
-      "artist": "The Wanted",
+      "email": "The Wanted",
       "id": "glad_you_came_the_wanted",
-      "playcount": 1543522
+      "influence": 1543522
     },
     {
-      "match": 0.173633,
+      "cluster": 1,
       "name": "Beat of My Drum",
-      "artist": "Nicola Roberts",
+      "email": "Nicola Roberts",
       "id": "beat_of_my_drum_nicola_roberts",
-      "playcount": 592691
+      "influence": 592691
     },
     {
-      "match": 0.90741,
+      "cluster": 1,
       "name": "Cannibal",
-      "artist": "Ke$ha",
+      "email": "Ke$ha",
       "id": "cannibal_keha",
-      "playcount": 1125524
+      "influence": 1125524
     },
     {
-      "match": 0.330655,
+      "cluster": 1,
       "name": "Scheiße",
-      "artist": "Lady Gaga",
+      "email": "Lady Gaga",
       "id": "scheie_lady_gaga",
-      "playcount": 2577024
+      "influence": 2577024
     },
     {
-      "match": 0.2677,
+      "cluster": 1,
       "name": "Raise Your Glass",
-      "artist": "P!nk",
+      "email": "P!nk",
       "id": "raise_your_glass_pnk",
-      "playcount": 1575287
+      "influence": 1575287
     },
     {
-      "match": 0.263225,
+      "cluster": 1,
       "name": "Love You Like a Love Song",
-      "artist": "Selena Gomez & the Scene",
+      "email": "Selena Gomez & the Scene",
       "id": "love_you_like_a_love_song_selena_gomez__the_scene",
-      "playcount": 1574879
+      "influence": 1574879
     },
     {
-      "match": 0.247652,
+      "cluster": 1,
       "name": "Can't Be Tamed",
-      "artist": "Miley Cyrus",
+      "email": "Miley Cyrus",
       "id": "cant_be_tamed_miley_cyrus",
-      "playcount": 1627982
+      "influence": 1627982
     },
     {
-      "match": 0.228903,
+      "cluster": 1,
       "name": "All About Tonight",
-      "artist": "Pixie Lott",
+      "email": "Pixie Lott",
       "id": "all_about_tonight_pixie_lott",
-      "playcount": 397961
+      "influence": 397961
     },
     {
-      "match": 0.225038,
+      "cluster": 1,
       "name": "Swagger Jagger",
-      "artist": "Cher Lloyd",
+      "email": "Cher Lloyd",
       "id": "swagger_jagger_cher_lloyd",
-      "playcount": 559078
+      "influence": 559078
     },
     {
-      "match": 0.220268,
+      "cluster": 1,
       "name": "Where Them Girls At (feat. Nicki Minaj & Flo Rida)",
-      "artist": "David Guetta",
+      "email": "David Guetta",
       "id": "where_them_girls_at_feat_nicki_minaj__flo_rida_david_guetta",
-      "playcount": 891915
+      "influence": 891915
     },
     {
-      "match": 0.216607,
+      "cluster": 1,
       "name": "In My Trunk",
-      "artist": "Dev",
+      "email": "Dev",
       "id": "in_my_trunk_dev",
-      "playcount": 137701
+      "influence": 137701
     },
     {
-      "match": 0.199863,
+      "cluster": 1,
       "name": "Dirty Talk",
-      "artist": "Wynter Gordon",
+      "email": "Wynter Gordon",
       "id": "dirty_talk_wynter_gordon",
-      "playcount": 473194
+      "influence": 473194
     },
     {
-      "match": 0.191204,
+      "cluster": 1,
       "name": "Cinderella's Eyes",
-      "artist": "Nicola Roberts",
+      "email": "Nicola Roberts",
       "id": "cinderellas_eyes_nicola_roberts",
-      "playcount": 143131
+      "influence": 143131
     },
     {
-      "match": 0.190088,
+      "cluster": 1,
       "name": "Countdown",
-      "artist": "Beyoncé",
+      "email": "Beyoncé",
       "id": "countdown_beyonc",
-      "playcount": 1261809
+      "influence": 1261809
     },
     {
-      "match": 0.188423,
+      "cluster": 1,
       "name": "Pound The Alarm",
-      "artist": "Nicki Minaj",
+      "email": "Nicki Minaj",
       "id": "pound_the_alarm_nicki_minaj",
-      "playcount": 372114
+      "influence": 372114
     },
     {
-      "match": 0.187245,
+      "cluster": 1,
       "name": "If I Had You",
-      "artist": "Adam Lambert",
+      "email": "Adam Lambert",
       "id": "if_i_had_you_adam_lambert",
-      "playcount": 1344850
+      "influence": 1344850
     },
     {
-      "match": 0.18604,
+      "cluster": 1,
       "name": "Army Of Love",
-      "artist": "Kerli",
+      "email": "Kerli",
       "id": "army_of_love_kerli",
-      "playcount": 363411
+      "influence": 363411
     },
     {
-      "match": 0.184732,
+      "cluster": 1,
       "name": "In My Arms",
-      "artist": "Kylie Minogue",
+      "email": "Kylie Minogue",
       "id": "in_my_arms_kylie_minogue",
-      "playcount": 1647190
+      "influence": 1647190
     },
     {
-      "match": 1.0,
+      "cluster": 1,
       "name": "I'm a Slave 4 U",
-      "artist": "Britney Spears",
+      "email": "Britney Spears",
       "id": "im_a_slave_4_u_britney_spears",
-      "playcount": 1761004
+      "influence": 1761004
     },
     {
-      "match": 0.905427,
+      "cluster": 1,
       "name": "Piece of Me",
-      "artist": "Britney Spears",
+      "email": "Britney Spears",
       "id": "piece_of_me_britney_spears",
-      "playcount": 4358815
+      "influence": 4358815
     },
     {
-      "match": 0.270896,
+      "cluster": 1,
       "name": "Where Have You Been",
-      "artist": "Rihanna",
+      "email": "Rihanna",
       "id": "where_have_you_been_rihanna",
-      "playcount": 1847634
+      "influence": 1847634
     },
     {
-      "match": 0.221881,
+      "cluster": 1,
       "name": "Whiplash",
-      "artist": "Selena Gomez & the Scene",
+      "email": "Selena Gomez & the Scene",
       "id": "whiplash_selena_gomez__the_scene",
-      "playcount": 260843
+      "influence": 260843
     },
     {
-      "match": 0.202886,
+      "cluster": 1,
       "name": "What You Waiting For?",
-      "artist": "Gwen Stefani",
+      "email": "Gwen Stefani",
       "id": "what_you_waiting_for_gwen_stefani",
-      "playcount": 1424180
+      "influence": 1424180
     },
     {
-      "match": 0.192013,
+      "cluster": 1,
       "name": "Buttons",
-      "artist": "The Pussycat Dolls",
+      "email": "The Pussycat Dolls",
       "id": "buttons_the_pussycat_dolls",
-      "playcount": 2161126
+      "influence": 2161126
     },
     {
-      "match": 0.182688,
+      "cluster": 1,
       "name": "Killer Love",
-      "artist": "Nicole Scherzinger",
+      "email": "Nicole Scherzinger",
       "id": "killer_love_nicole_scherzinger",
-      "playcount": 248933
+      "influence": 248933
     },
     {
-      "match": 0.16711,
+      "cluster": 1,
       "name": "Since U Been Gone",
-      "artist": "Kelly Clarkson",
+      "email": "Kelly Clarkson",
       "id": "since_u_been_gone_kelly_clarkson",
-      "playcount": 2473967
+      "influence": 2473967
     },
     {
-      "match": 0.164869,
+      "cluster": 1,
       "name": "Beautiful Sinner",
-      "artist": "Nicki Minaj",
+      "email": "Nicki Minaj",
       "id": "beautiful_sinner_nicki_minaj",
-      "playcount": 179584
+      "influence": 179584
     },
     {
-      "match": 0.164717,
+      "cluster": 1,
       "name": "Stranger",
-      "artist": "Hilary Duff",
+      "email": "Hilary Duff",
       "id": "stranger_hilary_duff",
-      "playcount": 847211
+      "influence": 847211
     },
     {
-      "match": 0.162758,
+      "cluster": 1,
       "name": "Crazy in Love",
-      "artist": "Beyoncé",
+      "email": "Beyoncé",
       "id": "crazy_in_love_beyonc",
-      "playcount": 1603714
+      "influence": 1603714
     },
     {
-      "match": 0.16107,
+      "cluster": 1,
       "name": "SexyBack",
-      "artist": "Justin Timberlake",
+      "email": "Justin Timberlake",
       "id": "sexyback_justin_timberlake",
-      "playcount": 3287109
+      "influence": 3287109
     },
     {
-      "match": 0.158191,
+      "cluster": 1,
       "name": "Yo-Yo",
-      "artist": "Nicola Roberts",
+      "email": "Nicola Roberts",
       "id": "yoyo_nicola_roberts",
-      "playcount": 218830
+      "influence": 218830
     },
     {
-      "match": 0.157906,
+      "cluster": 1,
       "name": "Rumors",
-      "artist": "Lindsay Lohan",
+      "email": "Lindsay Lohan",
       "id": "rumors_lindsay_lohan",
-      "playcount": 668731
+      "influence": 668731
     },
     {
-      "match": 0.156133,
+      "cluster": 1,
       "name": "With Love",
-      "artist": "Hilary Duff",
+      "email": "Hilary Duff",
       "id": "with_love_hilary_duff",
-      "playcount": 1013760
+      "influence": 1013760
     },
     {
-      "match": 0.15465,
+      "cluster": 1,
       "name": "Say It Right",
-      "artist": "Nelly Furtado",
+      "email": "Nelly Furtado",
       "id": "say_it_right_nelly_furtado",
-      "playcount": 4702717
+      "influence": 4702717
     },
     {
-      "match": 1.0,
+      "cluster": 1,
       "name": "Waking Up in Vegas",
-      "artist": "Katy Perry",
+      "email": "Katy Perry",
       "id": "waking_up_in_vegas_katy_perry",
-      "playcount": 2666407
+      "influence": 2666407
     },
     {
-      "match": 0.290343,
+      "cluster": 1,
       "name": "Womanizer",
-      "artist": "Britney Spears",
+      "email": "Britney Spears",
       "id": "womanizer_britney_spears",
-      "playcount": 5489488
+      "influence": 5489488
     },
     {
-      "match": 0.266789,
+      "cluster": 1,
       "name": "What The Hell",
-      "artist": "Avril Lavigne",
+      "email": "Avril Lavigne",
       "id": "what_the_hell_avril_lavigne",
-      "playcount": 2414558
+      "influence": 2414558
     },
     {
-      "match": 0.256672,
+      "cluster": 1,
       "name": "My Life Would Suck Without You",
-      "artist": "Kelly Clarkson",
+      "email": "Kelly Clarkson",
       "id": "my_life_would_suck_without_you_kelly_clarkson",
-      "playcount": 2496188
+      "influence": 2496188
     },
     {
-      "match": 0.249665,
+      "cluster": 1,
       "name": "So What",
-      "artist": "P!nk",
+      "email": "P!nk",
       "id": "so_what_pnk",
-      "playcount": 3231190
+      "influence": 3231190
     },
     {
-      "match": 0.24936,
+      "cluster": 1,
       "name": "Smile",
-      "artist": "Avril Lavigne",
+      "email": "Avril Lavigne",
       "id": "smile_avril_lavigne",
-      "playcount": 1362395
+      "influence": 1362395
     },
     {
-      "match": 0.224564,
+      "cluster": 1,
       "name": "Fighter",
-      "artist": "Christina Aguilera",
+      "email": "Christina Aguilera",
       "id": "fighter_christina_aguilera",
-      "playcount": 2092885
+      "influence": 2092885
     },
     {
-      "match": 0.217995,
+      "cluster": 1,
       "name": "Sober",
-      "artist": "P!nk",
+      "email": "P!nk",
       "id": "sober_pnk",
-      "playcount": 2434576
+      "influence": 2434576
     },
     {
-      "match": 0.174917,
+      "cluster": 1,
       "name": "Not Fair",
-      "artist": "Lily Allen",
+      "email": "Lily Allen",
       "id": "not_fair_lily_allen",
-      "playcount": 3344989
+      "influence": 3344989
     },
     {
-      "match": 0.172983,
+      "cluster": 1,
       "name": "This Love",
-      "artist": "Maroon 5",
+      "email": "Maroon 5",
       "id": "this_love_maroon_5",
-      "playcount": 4023370
+      "influence": 4023370
     },
     {
-      "match": 0.172515,
+      "cluster": 1,
       "name": "Untouched",
-      "artist": "The Veronicas",
+      "email": "The Veronicas",
       "id": "untouched_the_veronicas",
-      "playcount": 2861480
+      "influence": 2861480
     },
     {
-      "match": 0.168962,
+      "cluster": 1,
       "name": "The Fear",
-      "artist": "Lily Allen",
+      "email": "Lily Allen",
       "id": "the_fear_lily_allen",
-      "playcount": 3698387
+      "influence": 3698387
     },
     {
-      "match": 0.158888,
+      "cluster": 1,
       "name": "Whataya Want From Me",
-      "artist": "Adam Lambert",
+      "email": "Adam Lambert",
       "id": "whataya_want_from_me_adam_lambert",
-      "playcount": 2217248
+      "influence": 2217248
     },
     {
-      "match": 0.155514,
+      "cluster": 1,
       "name": "Give It 2 Me",
-      "artist": "Madonna",
+      "email": "Madonna",
       "id": "give_it_2_me_madonna",
-      "playcount": 1365328
+      "influence": 1365328
     },
     {
-      "match": 0.155389,
+      "cluster": 1,
       "name": "Liberty Walk",
-      "artist": "Miley Cyrus",
+      "email": "Miley Cyrus",
       "id": "liberty_walk_miley_cyrus",
-      "playcount": 564443
+      "influence": 564443
     },
     {
-      "match": 0.155125,
+      "cluster": 1,
       "name": "Wonderland",
-      "artist": "Natalia Kills",
+      "email": "Natalia Kills",
       "id": "wonderland_natalia_kills",
-      "playcount": 667629
+      "influence": 667629
     },
     {
-      "match": 0.341271,
+      "cluster": 1,
       "name": "We Found Love (feat. Calvin Harris)",
-      "artist": "Rihanna",
+      "email": "Rihanna",
       "id": "we_found_love_feat_calvin_harris_rihanna",
-      "playcount": 4326940
+      "influence": 4326940
     },
     {
-      "match": 0.273098,
+      "cluster": 1,
       "name": "Marry the Night",
-      "artist": "Lady Gaga",
+      "email": "Lady Gaga",
       "id": "marry_the_night_lady_gaga",
-      "playcount": 2976441
+      "influence": 2976441
     },
     {
-      "match": 0.23034,
+      "cluster": 1,
       "name": "Give Me All Your Luvin' (feat. Nicki Minaj & M.I.A.)",
-      "artist": "Madonna",
+      "email": "Madonna",
       "id": "give_me_all_your_luvin_feat_nicki_minaj__mia_madonna",
-      "playcount": 779580
+      "influence": 779580
     },
     {
-      "match": 0.168152,
+      "cluster": 1,
       "name": "Put Your Hands Up (If You Feel Love)",
-      "artist": "Kylie Minogue",
+      "email": "Kylie Minogue",
       "id": "put_your_hands_up_if_you_feel_love_kylie_minogue",
-      "playcount": 462938
+      "influence": 462938
     },
     {
-      "match": 0.162123,
+      "cluster": 1,
       "name": "DNA",
-      "artist": "Wanessa",
+      "email": "Wanessa",
       "id": "dna_wanessa",
-      "playcount": 175350
+      "influence": 175350
     },
     {
-      "match": 0.156886,
+      "cluster": 1,
       "name": "Sticky Dough (feat. Bam Bam)",
-      "artist": "Wanessa",
+      "email": "Wanessa",
       "id": "sticky_dough_feat_bam_bam_wanessa",
-      "playcount": 273907
+      "influence": 273907
     },
     {
-      "match": 0.144024,
+      "cluster": 1,
       "name": "Honestly",
-      "artist": "Kelly Clarkson",
+      "email": "Kelly Clarkson",
       "id": "honestly_kelly_clarkson",
-      "playcount": 226845
+      "influence": 226845
     },
     {
-      "match": 0.143207,
+      "cluster": 1,
       "name": "See No More",
-      "artist": "Joe Jonas",
+      "email": "Joe Jonas",
       "id": "see_no_more_joe_jonas",
-      "playcount": 307828
+      "influence": 307828
     },
     {
-      "match": 0.13893,
+      "cluster": 1,
       "name": "Just in Love",
-      "artist": "Joe Jonas",
+      "email": "Joe Jonas",
       "id": "just_in_love_joe_jonas",
-      "playcount": 168275
+      "influence": 168275
     },
     {
-      "match": 0.137885,
+      "cluster": 1,
       "name": "Notorious",
-      "artist": "The Saturdays",
+      "email": "The Saturdays",
       "id": "notorious_the_saturdays",
-      "playcount": 303449
+      "influence": 303449
     },
     {
-      "match": 0.129713,
+      "cluster": 1,
       "name": "Call Your Girlfriend",
-      "artist": "Robyn",
+      "email": "Robyn",
       "id": "call_your_girlfriend_robyn",
-      "playcount": 930629
+      "influence": 930629
     },
     {
-      "match": 0.124217,
+      "cluster": 1,
       "name": "In Real Life",
-      "artist": "Demi Lovato",
+      "email": "Demi Lovato",
       "id": "in_real_life_demi_lovato",
-      "playcount": 199565
+      "influence": 199565
     },
     {
-      "match": 0.123897,
+      "cluster": 1,
       "name": "Want U Back",
-      "artist": "Cher Lloyd",
+      "email": "Cher Lloyd",
       "id": "want_u_back_cher_lloyd",
-      "playcount": 312591
+      "influence": 312591
     },
     {
-      "match": 0.121794,
+      "cluster": 1,
       "name": "Radioactive",
-      "artist": "Marina & the Diamonds",
+      "email": "Marina & the Diamonds",
       "id": "radioactive_marina__the_diamonds",
-      "playcount": 546510
+      "influence": 546510
     },
     {
-      "match": 0.11248,
+      "cluster": 1,
       "name": "Collide",
-      "artist": "Leona Lewis",
+      "email": "Leona Lewis",
       "id": "collide_leona_lewis",
-      "playcount": 182169
+      "influence": 182169
     },
     {
-      "match": 0.112292,
+      "cluster": 1,
       "name": "Dancing on My Own",
-      "artist": "Robyn",
+      "email": "Robyn",
       "id": "dancing_on_my_own_robyn",
-      "playcount": 1888443
+      "influence": 1888443
     },
     {
-      "match": 0.835097,
+      "cluster": 1,
       "name": "Get Together",
-      "artist": "Madonna",
+      "email": "Madonna",
       "id": "get_together_madonna",
-      "playcount": 1451756
+      "influence": 1451756
     },
     {
-      "match": 0.286379,
+      "cluster": 1,
       "name": "Gimme More",
-      "artist": "Britney Spears",
+      "email": "Britney Spears",
       "id": "gimme_more_britney_spears",
-      "playcount": 4292707
+      "influence": 4292707
     },
     {
-      "match": 0.24434,
+      "cluster": 1,
       "name": "Heavy Metal Lover",
-      "artist": "Lady Gaga",
+      "email": "Lady Gaga",
       "id": "heavy_metal_lover_lady_gaga",
-      "playcount": 1874279
+      "influence": 1874279
     },
     {
-      "match": 0.155353,
+      "cluster": 1,
       "name": "Believe",
-      "artist": "Cher",
+      "email": "Cher",
       "id": "believe_cher",
-      "playcount": 1109681
+      "influence": 1109681
     },
     {
-      "match": 0.1189,
+      "cluster": 1,
       "name": "Primadonna",
-      "artist": "Marina & the Diamonds",
+      "email": "Marina & the Diamonds",
       "id": "primadonna_marina__the_diamonds",
-      "playcount": 894630
+      "influence": 894630
     },
     {
-      "match": 0.110882,
+      "cluster": 1,
       "name": "XXXO",
-      "artist": "M.I.A.",
+      "email": "M.I.A.",
       "id": "xxxo_mia",
-      "playcount": 1016014
+      "influence": 1016014
     },
     {
-      "match": 0.261726,
+      "cluster": 1,
       "name": "Disturbia",
-      "artist": "Rihanna",
+      "email": "Rihanna",
       "id": "disturbia_rihanna",
-      "playcount": 4015935
+      "influence": 4015935
     },
     {
-      "match": 0.172526,
+      "cluster": 1,
       "name": "Starstrukk (feat. Katy Perry)",
-      "artist": "3OH!3",
+      "email": "3OH!3",
       "id": "starstrukk_feat_katy_perry_3oh3",
-      "playcount": 673350
+      "influence": 673350
     },
     {
-      "match": 0.144232,
+      "cluster": 1,
       "name": "That's More Like It",
-      "artist": "Selena Gomez & the Scene",
+      "email": "Selena Gomez & the Scene",
       "id": "thats_more_like_it_selena_gomez__the_scene",
-      "playcount": 143473
+      "influence": 143473
     },
     {
-      "match": 0.141804,
+      "cluster": 1,
       "name": "Keep Holding On",
-      "artist": "Avril Lavigne",
+      "email": "Avril Lavigne",
       "id": "keep_holding_on_avril_lavigne",
-      "playcount": 1882132
+      "influence": 1882132
     },
     {
-      "match": 0.129791,
+      "cluster": 1,
       "name": "Nobody's Home",
-      "artist": "Avril Lavigne",
+      "email": "Avril Lavigne",
       "id": "nobodys_home_avril_lavigne",
-      "playcount": 2122875
+      "influence": 2122875
     },
     {
-      "match": 0.120881,
+      "cluster": 1,
       "name": "Shut Up And Let Me Go",
-      "artist": "The Ting Tings",
+      "email": "The Ting Tings",
       "id": "shut_up_and_let_me_go_the_ting_tings",
-      "playcount": 3393999
+      "influence": 3393999
     },
     {
-      "match": 0.119375,
+      "cluster": 1,
       "name": "Pocketful Of Sunshine",
-      "artist": "Natasha Bedingfield",
+      "email": "Natasha Bedingfield",
       "id": "pocketful_of_sunshine_natasha_bedingfield",
-      "playcount": 1435030
+      "influence": 1435030
     },
     {
-      "match": 0.108702,
+      "cluster": 1,
       "name": "Wake Up Call",
-      "artist": "Maroon 5",
+      "email": "Maroon 5",
       "id": "wake_up_call_maroon_5",
-      "playcount": 2342223
+      "influence": 2342223
     },
     {
-      "match": 0.86172,
+      "cluster": 1,
       "name": "Glam",
-      "artist": "Christina Aguilera",
+      "email": "Christina Aguilera",
       "id": "glam_christina_aguilera",
-      "playcount": 548125
+      "influence": 548125
     },
     {
-      "match": 0.216954,
+      "cluster": 1,
       "name": "Worth It",
-      "artist": "Wanessa",
+      "email": "Wanessa",
       "id": "worth_it_wanessa",
-      "playcount": 281351
+      "influence": 281351
     },
     {
-      "match": 0.1971,
+      "cluster": 1,
       "name": "Circle the Drain",
-      "artist": "Katy Perry",
+      "email": "Katy Perry",
       "id": "circle_the_drain_katy_perry",
-      "playcount": 1206836
+      "influence": 1206836
     },
     {
-      "match": 0.158658,
+      "cluster": 1,
       "name": "Zero Gravity",
-      "artist": "Kerli",
+      "email": "Kerli",
       "id": "zero_gravity_kerli",
-      "playcount": 168526
+      "influence": 168526
     },
     {
-      "match": 0.154133,
+      "cluster": 1,
       "name": "Bossy",
-      "artist": "Lindsay Lohan",
+      "email": "Lindsay Lohan",
       "id": "bossy_lindsay_lohan",
-      "playcount": 300435
+      "influence": 300435
     },
     {
-      "match": 0.148707,
+      "cluster": 1,
       "name": "Two More Lonely People",
-      "artist": "Miley Cyrus",
+      "email": "Miley Cyrus",
       "id": "two_more_lonely_people_miley_cyrus",
-      "playcount": 400707
+      "influence": 400707
     },
     {
-      "match": 0.133982,
+      "cluster": 1,
       "name": "Lovesick",
-      "artist": "Emily Osment",
+      "email": "Emily Osment",
       "id": "lovesick_emily_osment",
-      "playcount": 215898
+      "influence": 215898
     },
     {
-      "match": 0.132573,
+      "cluster": 1,
       "name": "Show Me",
-      "artist": "Jessica Sutta",
+      "email": "Jessica Sutta",
       "id": "show_me_jessica_sutta",
-      "playcount": 82043
+      "influence": 82043
     },
     {
-      "match": 0.130538,
+      "cluster": 1,
       "name": "For Your Entertainment",
-      "artist": "Adam Lambert",
+      "email": "Adam Lambert",
       "id": "for_your_entertainment_adam_lambert",
-      "playcount": 1366799
+      "influence": 1366799
     },
     {
-      "match": 0.128086,
+      "cluster": 1,
       "name": "Lose My Breath",
-      "artist": "Destiny's Child",
+      "email": "Destiny's Child",
       "id": "lose_my_breath_destinys_child",
-      "playcount": 1020889
+      "influence": 1020889
     },
     {
-      "match": 0.127944,
+      "cluster": 1,
       "name": "What Do You Take Me For? (feat. Pusha T)",
-      "artist": "Pixie Lott",
+      "email": "Pixie Lott",
       "id": "what_do_you_take_me_for_feat_pusha_t_pixie_lott",
-      "playcount": 85483
+      "influence": 85483
     },
     {
-      "match": 0.127604,
+      "cluster": 1,
       "name": "Feedback",
-      "artist": "Janet Jackson",
+      "email": "Janet Jackson",
       "id": "feedback_janet_jackson",
-      "playcount": 980175
+      "influence": 980175
     },
     {
-      "match": 0.127187,
+      "cluster": 1,
       "name": "Fuck U Betta",
-      "artist": "Neon Hitch",
+      "email": "Neon Hitch",
       "id": "fuck_u_betta_neon_hitch",
-      "playcount": 146677
+      "influence": 146677
     },
     {
-      "match": 0.125638,
+      "cluster": 1,
       "name": "Whip My Hair",
-      "artist": "Willow Smith",
+      "email": "Willow Smith",
       "id": "whip_my_hair_willow_smith",
-      "playcount": 2021846
+      "influence": 2021846
     },
     {
-      "match": 0.125377,
+      "cluster": 1,
       "name": "Call My Name",
-      "artist": "Cheryl Cole",
+      "email": "Cheryl Cole",
       "id": "call_my_name_cheryl_cole",
-      "playcount": 284850
+      "influence": 284850
     },
     {
-      "match": 0.124316,
+      "cluster": 1,
       "name": "Grow Up (feat. Busta Rhymes)",
-      "artist": "Cher Lloyd",
+      "email": "Cher Lloyd",
       "id": "grow_up_feat_busta_rhymes_cher_lloyd",
-      "playcount": 88837
+      "influence": 88837
     },
     {
-      "match": 0.978535,
+      "cluster": 1,
       "name": "Zombie",
-      "artist": "Natalia Kills",
+      "email": "Natalia Kills",
       "id": "zombie_natalia_kills",
-      "playcount": 428907
+      "influence": 428907
     },
     {
-      "match": 0.197883,
+      "cluster": 1,
       "name": "Obsession",
-      "artist": "Sky Ferreira",
+      "email": "Sky Ferreira",
       "id": "obsession_sky_ferreira",
-      "playcount": 424545
+      "influence": 424545
     },
     {
-      "match": 0.184191,
+      "cluster": 1,
       "name": "This Is What Rock N Roll Looks Like (feat. Lil Wayne)",
-      "artist": "Porcelain Black",
+      "email": "Porcelain Black",
       "id": "this_is_what_rock_n_roll_looks_like_feat_lil_wayne_porcelain_black",
-      "playcount": 217981
+      "influence": 217981
     },
     {
-      "match": 0.154278,
+      "cluster": 1,
       "name": "Bang Bang Bang",
-      "artist": "Selena Gomez & the Scene",
+      "email": "Selena Gomez & the Scene",
       "id": "bang_bang_bang_selena_gomez__the_scene",
-      "playcount": 360520
+      "influence": 360520
     },
     {
-      "match": 0.144084,
+      "cluster": 1,
       "name": "Gravity",
-      "artist": "Pixie Lott",
+      "email": "Pixie Lott",
       "id": "gravity_pixie_lott",
-      "playcount": 544753
+      "influence": 544753
     },
     {
-      "match": 0.14199,
+      "cluster": 1,
       "name": "Silly Boy",
-      "artist": "Eva Simons",
+      "email": "Eva Simons",
       "id": "silly_boy_eva_simons",
-      "playcount": 755360
+      "influence": 755360
     },
     {
-      "match": 0.140653,
+      "cluster": 1,
       "name": "Oh No!",
-      "artist": "Marina & the Diamonds",
+      "email": "Marina & the Diamonds",
       "id": "oh_no_marina__the_diamonds",
-      "playcount": 1283028
+      "influence": 1283028
     },
     {
-      "match": 0.13958,
+      "cluster": 1,
       "name": "99 Tears",
-      "artist": "Sky Ferreira",
+      "email": "Sky Ferreira",
       "id": "99_tears_sky_ferreira",
-      "playcount": 97058
+      "influence": 97058
     },
     {
-      "match": 0.137914,
+      "cluster": 1,
       "name": "Geronimo",
-      "artist": "Aura Dione",
+      "email": "Aura Dione",
       "id": "geronimo_aura_dione",
-      "playcount": 152058
+      "influence": 152058
     },
     {
-      "match": 0.133906,
+      "cluster": 1,
       "name": "Fight For This Love",
-      "artist": "Cheryl Cole",
+      "email": "Cheryl Cole",
       "id": "fight_for_this_love_cheryl_cole",
-      "playcount": 2144034
+      "influence": 2144034
     },
     {
-      "match": 0.133803,
+      "cluster": 1,
       "name": "Troublemaker",
-      "artist": "Taio Cruz",
+      "email": "Taio Cruz",
       "id": "troublemaker_taio_cruz",
-      "playcount": 166270
+      "influence": 166270
     },
     {
-      "match": 0.132848,
+      "cluster": 1,
       "name": "San Francisco",
-      "artist": "Cascada",
+      "email": "Cascada",
       "id": "san_francisco_cascada",
-      "playcount": 131680
+      "influence": 131680
     },
     {
-      "match": 0.131863,
+      "cluster": 1,
       "name": "Lights",
-      "artist": "Ellie Goulding",
+      "email": "Ellie Goulding",
       "id": "lights_ellie_goulding",
-      "playcount": 1338773
+      "influence": 1338773
     },
     {
-      "match": 0.127094,
+      "cluster": 1,
       "name": "Remedy",
-      "artist": "Little Boots",
+      "email": "Little Boots",
       "id": "remedy_little_boots",
-      "playcount": 1262858
+      "influence": 1262858
     },
     {
-      "match": 0.126386,
+      "cluster": 1,
       "name": "Under the Sheets",
-      "artist": "Ellie Goulding",
+      "email": "Ellie Goulding",
       "id": "under_the_sheets_ellie_goulding",
-      "playcount": 1623580
+      "influence": 1623580
     },
     {
-      "match": 0.122082,
+      "cluster": 1,
       "name": "Sun Is Up",
-      "artist": "Inna",
+      "email": "Inna",
       "id": "sun_is_up_inna",
-      "playcount": 355869
+      "influence": 355869
     },
     {
-      "match": 0.106362,
+      "cluster": 1,
       "name": "Time Machine",
-      "artist": "Robyn",
+      "email": "Robyn",
       "id": "time_machine_robyn",
-      "playcount": 492162
+      "influence": 492162
     },
     {
-      "match": 0.103761,
+      "cluster": 1,
       "name": "Did It Again",
-      "artist": "Shakira",
+      "email": "Shakira",
       "id": "did_it_again_shakira",
-      "playcount": 1081968
+      "influence": 1081968
     },
     {
-      "match": 1.0,
+      "cluster": 1,
       "name": "Invading My Mind",
-      "artist": "Jennifer Lopez",
+      "email": "Jennifer Lopez",
       "id": "invading_my_mind_jennifer_lopez",
-      "playcount": 184940
+      "influence": 184940
     },
     {
-      "match": 0.986615,
+      "cluster": 1,
       "name": "Hypnotico",
-      "artist": "Jennifer Lopez",
+      "email": "Jennifer Lopez",
       "id": "hypnotico_jennifer_lopez",
-      "playcount": 204160
+      "influence": 204160
     },
     {
-      "match": 0.433606,
+      "cluster": 1,
       "name": "End of Time",
-      "artist": "Beyoncé",
+      "email": "Beyoncé",
       "id": "end_of_time_beyonc",
-      "playcount": 1103005
+      "influence": 1103005
     },
     {
-      "match": 0.42375,
+      "cluster": 1,
       "name": "Rain Over Me (feat. Marc Anthony)",
-      "artist": "Pitbull",
+      "email": "Pitbull",
       "id": "rain_over_me_feat_marc_anthony_pitbull",
-      "playcount": 243305
+      "influence": 243305
     },
     {
-      "match": 0.399705,
+      "cluster": 1,
       "name": "Down For Whatever",
-      "artist": "Kelly Rowland",
+      "email": "Kelly Rowland",
       "id": "down_for_whatever_kelly_rowland",
-      "playcount": 157842
+      "influence": 157842
     },
     {
-      "match": 0.344193,
+      "cluster": 1,
       "name": "Get Back (Asap)",
-      "artist": "Alexandra Stan",
+      "email": "Alexandra Stan",
       "id": "get_back_asap_alexandra_stan",
-      "playcount": 286015
+      "influence": 286015
     },
     {
-      "match": 0.3261,
+      "cluster": 1,
       "name": "Aphrodite",
-      "artist": "Kylie Minogue",
+      "email": "Kylie Minogue",
       "id": "aphrodite_kylie_minogue",
-      "playcount": 550225
+      "influence": 550225
     },
     {
-      "match": 0.317546,
+      "cluster": 1,
       "name": "Naked (feat. Enrique Iglesias)",
-      "artist": "Dev",
+      "email": "Dev",
       "id": "naked_feat_enrique_iglesias_dev",
-      "playcount": 73008
+      "influence": 73008
     },
     {
-      "match": 0.315122,
+      "cluster": 1,
       "name": "T.H.E (The Hardest Ever) [feat. Mick Jagger & Jennifer Lopez]",
-      "artist": "will.i.am",
+      "email": "will.i.am",
       "id": "the_the_hardest_ever_feat_mick_jagger__jennifer_lopez_william",
-      "playcount": 52176
+      "influence": 52176
     },
     {
-      "match": 0.299498,
+      "cluster": 1,
       "name": "Hangover (feat. Flo Rida)",
-      "artist": "Taio Cruz",
+      "email": "Taio Cruz",
       "id": "hangover_feat_flo_rida_taio_cruz",
-      "playcount": 98407
+      "influence": 98407
     },
     {
-      "match": 0.238612,
+      "cluster": 1,
       "name": "Parachute",
-      "artist": "Cheryl Cole",
+      "email": "Cheryl Cole",
       "id": "parachute_cheryl_cole",
-      "playcount": 1477813
+      "influence": 1477813
     },
     {
-      "match": 0.231179,
+      "cluster": 1,
       "name": "Don't Wanna Go Home",
-      "artist": "Jason Derülo",
+      "email": "Jason Derülo",
       "id": "dont_wanna_go_home_jason_derlo",
-      "playcount": 630753
+      "influence": 630753
     },
     {
-      "match": 0.224206,
+      "cluster": 1,
       "name": "I Like How It Feels",
-      "artist": "Enrique Iglesias",
+      "email": "Enrique Iglesias",
       "id": "i_like_how_it_feels_enrique_iglesias",
-      "playcount": 116829
+      "influence": 116829
     },
     {
-      "match": 0.216352,
+      "cluster": 1,
       "name": "Bumpy Ride",
-      "artist": "Mohombi",
+      "email": "Mohombi",
       "id": "bumpy_ride_mohombi",
-      "playcount": 655671
+      "influence": 655671
     },
     {
-      "match": 0.210463,
+      "cluster": 1,
       "name": "Think About It",
-      "artist": "Melanie C",
+      "email": "Melanie C",
       "id": "think_about_it_melanie_c",
-      "playcount": 96090
+      "influence": 96090
     },
     {
-      "match": 0.210362,
+      "cluster": 1,
       "name": "21st Century Girl",
-      "artist": "Willow Smith",
+      "email": "Willow Smith",
       "id": "21st_century_girl_willow_smith",
-      "playcount": 267661
+      "influence": 267661
     },
     {
-      "match": 1.0,
+      "cluster": 1,
       "name": "I'm Into You (feat. Lil Wayne)",
-      "artist": "Jennifer Lopez",
+      "email": "Jennifer Lopez",
       "id": "im_into_you_feat_lil_wayne_jennifer_lopez",
-      "playcount": 393527
+      "influence": 393527
     },
     {
-      "match": 0.435687,
+      "cluster": 1,
       "name": "Telephone (feat. Beyoncé)",
-      "artist": "Lady Gaga",
+      "email": "Lady Gaga",
       "id": "telephone_feat_beyonc_lady_gaga",
-      "playcount": 7551403
+      "influence": 7551403
     },
     {
-      "match": 0.339818,
+      "cluster": 1,
       "name": "DJ Got Us Fallin' in Love (feat. Pitbull)",
-      "artist": "Usher",
+      "email": "Usher",
       "id": "dj_got_us_fallin_in_love_feat_pitbull_usher",
-      "playcount": 350215
+      "influence": 350215
     },
     {
-      "match": 0.326212,
+      "cluster": 1,
       "name": "I Like It (feat. Pitbull)",
-      "artist": "Enrique Iglesias",
+      "email": "Enrique Iglesias",
       "id": "i_like_it_feat_pitbull_enrique_iglesias",
-      "playcount": 389410
+      "influence": 389410
     },
     {
-      "match": 0.304022,
+      "cluster": 1,
       "name": "F**kin' Perfect",
-      "artist": "P!nk",
+      "email": "P!nk",
       "id": "fkin_perfect_pnk",
-      "playcount": 315184
+      "influence": 315184
     },
     {
-      "match": 0.281183,
+      "cluster": 1,
       "name": "Who's That Chick? (feat. Rihanna)",
-      "artist": "David Guetta",
+      "email": "David Guetta",
       "id": "whos_that_chick_feat_rihanna_david_guetta",
-      "playcount": 279988
+      "influence": 279988
     },
     {
-      "match": 0.253703,
+      "cluster": 1,
       "name": "Don't Stop the Party",
-      "artist": "Black Eyed Peas",
+      "email": "Black Eyed Peas",
       "id": "dont_stop_the_party_black_eyed_peas",
-      "playcount": 511322
+      "influence": 511322
     },
     {
-      "match": 0.212646,
+      "cluster": 1,
       "name": "Tonight (I'm Lovin' You) [feat. Ludacris & DJ Frank E]",
-      "artist": "Enrique Iglesias",
+      "email": "Enrique Iglesias",
       "id": "tonight_im_lovin_you_feat_ludacris__dj_frank_e_enrique_iglesias",
-      "playcount": 115389
+      "influence": 115389
     },
     {
-      "match": 0.206635,
+      "cluster": 1,
       "name": "It's Like That",
-      "artist": "Mariah Carey",
+      "email": "Mariah Carey",
       "id": "its_like_that_mariah_carey",
-      "playcount": 571481
+      "influence": 571481
     },
     {
-      "match": 0.204827,
+      "cluster": 1,
       "name": "Hello",
-      "artist": "Kelly Clarkson",
+      "email": "Kelly Clarkson",
       "id": "hello_kelly_clarkson",
-      "playcount": 179651
+      "influence": 179651
     },
     {
-      "match": 0.202983,
+      "cluster": 1,
       "name": "London Bridge",
-      "artist": "Fergie",
+      "email": "Fergie",
       "id": "london_bridge_fergie",
-      "playcount": 1484655
+      "influence": 1484655
     },
     {
-      "match": 0.19276,
+      "cluster": 1,
       "name": "Elephant (feat. Erick Morillo)",
-      "artist": "Alexandra Burke",
+      "email": "Alexandra Burke",
       "id": "elephant_feat_erick_morillo_alexandra_burke",
-      "playcount": 48607
+      "influence": 48607
     },
     {
-      "match": 0.189805,
+      "cluster": 1,
       "name": "Fireball (feat. Nicki Minaj)",
-      "artist": "Willow Smith",
+      "email": "Willow Smith",
       "id": "fireball_feat_nicki_minaj_willow_smith",
-      "playcount": 27386
+      "influence": 27386
     },
     {
-      "match": 0.181996,
+      "cluster": 1,
       "name": "Clumsy",
-      "artist": "Fergie",
+      "email": "Fergie",
       "id": "clumsy_fergie",
-      "playcount": 1322570
+      "influence": 1322570
     },
     {
-      "match": 0.176795,
+      "cluster": 1,
       "name": "We Run the Night (feat. Pitbull)",
-      "artist": "Havana Brown",
+      "email": "Havana Brown",
       "id": "we_run_the_night_feat_pitbull_havana_brown",
-      "playcount": 46145
+      "influence": 46145
     },
     {
-      "match": 0.172886,
+      "cluster": 1,
       "name": "Pobre Tu Alma",
-      "artist": "Anahí",
+      "email": "Anahí",
       "id": "pobre_tu_alma_anah",
-      "playcount": 159772
+      "influence": 159772
     }
   ],
   "links": [

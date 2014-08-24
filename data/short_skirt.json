@@ -1,1607 +1,1607 @@
 {
   "nodes": [
     {
-      "match": 1.0,
+      "cluster": 1,
       "name": "Arco Arena",
-      "artist": "Cake",
+      "email": "Cake",
       "id": "arco_arena_cake",
-      "playcount": 525661
+      "influence": 525661
     },
     {
-      "match": 0.965229,
+      "cluster": 1,
       "name": "Pretty Pink Ribbon",
-      "artist": "Cake",
+      "email": "Cake",
       "id": "pretty_pink_ribbon_cake",
-      "playcount": 441254
+      "influence": 441254
     },
     {
-      "match": 0.178932,
+      "cluster": 1,
       "name": "E-Pro",
-      "artist": "Beck",
+      "email": "Beck",
       "id": "epro_beck",
-      "playcount": 1788051
+      "influence": 1788051
     },
     {
-      "match": 0.176066,
+      "cluster": 1,
       "name": "El Scorcho",
-      "artist": "Weezer",
+      "email": "Weezer",
       "id": "el_scorcho_weezer",
-      "playcount": 1450951
+      "influence": 1450951
     },
     {
-      "match": 0.174384,
+      "cluster": 1,
       "name": "Beverly Hills",
-      "artist": "Weezer",
+      "email": "Weezer",
       "id": "beverly_hills_weezer",
-      "playcount": 1993000
+      "influence": 1993000
     },
     {
-      "match": 0.166719,
+      "cluster": 1,
       "name": "Her Words Destroyed My Planet",
-      "artist": "Motion City Soundtrack",
+      "email": "Motion City Soundtrack",
       "id": "her_words_destroyed_my_planet_motion_city_soundtrack",
-      "playcount": 288221
+      "influence": 288221
     },
     {
-      "match": 0.164799,
+      "cluster": 1,
       "name": "Girl",
-      "artist": "Beck",
+      "email": "Beck",
       "id": "girl_beck",
-      "playcount": 2138348
+      "influence": 2138348
     },
     {
-      "match": 0.158586,
+      "cluster": 1,
       "name": "Stranger",
-      "artist": "The Presidents of the United States of America",
+      "email": "The Presidents of the United States of America",
       "id": "stranger_the_presidents_of_the_united_states_of_america",
-      "playcount": 183819
+      "influence": 183819
     },
     {
-      "match": 0.157933,
+      "cluster": 1,
       "name": "King of New Orleans",
-      "artist": "Better Than Ezra",
+      "email": "Better Than Ezra",
       "id": "king_of_new_orleans_better_than_ezra",
-      "playcount": 101639
+      "influence": 101639
     },
     {
-      "match": 0.157527,
+      "cluster": 1,
       "name": "Bohemian Like You",
-      "artist": "The Dandy Warhols",
+      "email": "The Dandy Warhols",
       "id": "bohemian_like_you_the_dandy_warhols",
-      "playcount": 2243045
+      "influence": 2243045
     },
     {
-      "match": 0.155025,
+      "cluster": 1,
       "name": "Then The Morning Comes",
-      "artist": "Smash Mouth",
+      "email": "Smash Mouth",
       "id": "then_the_morning_comes_smash_mouth",
-      "playcount": 278314
+      "influence": 278314
     },
     {
-      "match": 0.153862,
+      "cluster": 1,
       "name": "We Are Not Going to Make It",
-      "artist": "The Presidents of the United States of America",
+      "email": "The Presidents of the United States of America",
       "id": "we_are_not_going_to_make_it_the_presidents_of_the_united_states_of_america",
-      "playcount": 212953
+      "influence": 212953
     },
     {
-      "match": 0.148286,
+      "cluster": 1,
       "name": "Don't You Evah",
-      "artist": "Spoon",
+      "email": "Spoon",
       "id": "dont_you_evah_spoon",
-      "playcount": 1219317
+      "influence": 1219317
     },
     {
-      "match": 0.14427,
+      "cluster": 1,
       "name": "Istanbul (Not Constantinople)",
-      "artist": "They Might Be Giants",
+      "email": "They Might Be Giants",
       "id": "istanbul_not_constantinople_they_might_be_giants",
-      "playcount": 511492
+      "influence": 511492
     },
     {
-      "match": 0.140309,
+      "cluster": 1,
       "name": "Put Your Money Where Your Mouth Is",
-      "artist": "Jet",
+      "email": "Jet",
       "id": "put_your_money_where_your_mouth_is_jet",
-      "playcount": 482807
+      "influence": 482807
     },
     {
-      "match": 0.140269,
+      "cluster": 1,
       "name": "Blue Orchid",
-      "artist": "The White Stripes",
+      "email": "The White Stripes",
       "id": "blue_orchid_the_white_stripes",
-      "playcount": 2935997
+      "influence": 2935997
     },
     {
-      "match": 1.0,
+      "cluster": 1,
       "name": "World Of Two",
-      "artist": "Cake",
+      "email": "Cake",
       "id": "world_of_two_cake",
-      "playcount": 387222
+      "influence": 387222
     },
     {
-      "match": 0.900037,
+      "cluster": 1,
       "name": "Long Line Of Cars",
-      "artist": "Cake",
+      "email": "Cake",
       "id": "long_line_of_cars_cake",
-      "playcount": 519451
+      "influence": 519451
     },
     {
-      "match": 0.0769901,
+      "cluster": 1,
       "name": "Fell in Love With a Girl",
-      "artist": "The White Stripes",
+      "email": "The White Stripes",
       "id": "fell_in_love_with_a_girl_the_white_stripes",
-      "playcount": 2920227
+      "influence": 2920227
     },
     {
-      "match": 0.076583,
+      "cluster": 1,
       "name": "Island In The Sun",
-      "artist": "Weezer",
+      "email": "Weezer",
       "id": "island_in_the_sun_weezer",
-      "playcount": 3855428
+      "influence": 3855428
     },
     {
-      "match": 0.075962,
+      "cluster": 1,
       "name": "Here Comes Your Man",
-      "artist": "Pixies",
+      "email": "Pixies",
       "id": "here_comes_your_man_pixies",
-      "playcount": 3014372
+      "influence": 3014372
     },
     {
-      "match": 0.0753843,
+      "cluster": 1,
       "name": "Where Is My Mind?",
-      "artist": "Pixies",
+      "email": "Pixies",
       "id": "where_is_my_mind_pixies",
-      "playcount": 6035839
+      "influence": 6035839
     },
     {
-      "match": 0.0750837,
+      "cluster": 1,
       "name": "The Hardest Button to Button",
-      "artist": "The White Stripes",
+      "email": "The White Stripes",
       "id": "the_hardest_button_to_button_the_white_stripes",
-      "playcount": 2401916
+      "influence": 2401916
     },
     {
-      "match": 0.834843,
+      "cluster": 1,
       "name": "Go It Alone",
-      "artist": "Beck",
+      "email": "Beck",
       "id": "go_it_alone_beck",
-      "playcount": 840684
+      "influence": 840684
     },
     {
-      "match": 0.195087,
+      "cluster": 1,
       "name": "Short Skirt/Long Jacket",
-      "artist": "Cake",
+      "email": "Cake",
       "id": "short_skirt_long_jacket_cake",
-      "playcount": 745973
+      "influence": 745973
     },
     {
-      "match": 0.175288,
+      "cluster": 1,
       "name": "The Distance",
-      "artist": "Cake",
+      "email": "Cake",
       "id": "the_distance_cake",
-      "playcount": 1580720
+      "influence": 1580720
     },
     {
-      "match": 0.157466,
+      "cluster": 1,
       "name": "Float On",
-      "artist": "Modest Mouse",
+      "email": "Modest Mouse",
       "id": "float_on_modest_mouse",
-      "playcount": 5609218
+      "influence": 5609218
     },
     {
-      "match": 0.145142,
+      "cluster": 1,
       "name": "Rebellion (Lies)",
-      "artist": "Arcade Fire",
+      "email": "Arcade Fire",
       "id": "rebellion_lies_arcade_fire",
-      "playcount": 5271831
+      "influence": 5271831
     },
     {
-      "match": 0.144731,
+      "cluster": 1,
       "name": "Dashboard",
-      "artist": "Modest Mouse",
+      "email": "Modest Mouse",
       "id": "dashboard_modest_mouse",
-      "playcount": 3474069
+      "influence": 3474069
     },
     {
-      "match": 0.142752,
+      "cluster": 1,
       "name": "Buddy Holly",
-      "artist": "Weezer",
+      "email": "Weezer",
       "id": "buddy_holly_weezer",
-      "playcount": 3822614
+      "influence": 3822614
     },
     {
-      "match": 0.139066,
+      "cluster": 1,
       "name": "Blister in the Sun",
-      "artist": "Violent Femmes",
+      "email": "Violent Femmes",
       "id": "blister_in_the_sun_violent_femmes",
-      "playcount": 2026046
+      "influence": 2026046
     },
     {
-      "match": 0.138608,
+      "cluster": 1,
       "name": "15 Step",
-      "artist": "Radiohead",
+      "email": "Radiohead",
       "id": "15_step_radiohead",
-      "playcount": 6569999
+      "influence": 6569999
     },
     {
-      "match": 0.136404,
+      "cluster": 1,
       "name": "This Too Shall Pass",
-      "artist": "OK Go",
+      "email": "OK Go",
       "id": "this_too_shall_pass_ok_go",
-      "playcount": 583893
+      "influence": 583893
     },
     {
-      "match": 0.135316,
+      "cluster": 1,
       "name": "Steady, as She Goes",
-      "artist": "The Raconteurs",
+      "email": "The Raconteurs",
       "id": "steady_as_she_goes_the_raconteurs",
-      "playcount": 3010720
+      "influence": 3010720
     },
     {
-      "match": 0.131097,
+      "cluster": 1,
       "name": "Salute Your Solution",
-      "artist": "The Raconteurs",
+      "email": "The Raconteurs",
       "id": "salute_your_solution_the_raconteurs",
-      "playcount": 1343885
+      "influence": 1343885
     },
     {
-      "match": 0.129642,
+      "cluster": 1,
       "name": "Bodysnatchers",
-      "artist": "Radiohead",
+      "email": "Radiohead",
       "id": "bodysnatchers_radiohead",
-      "playcount": 6115996
+      "influence": 6115996
     },
     {
-      "match": 0.128008,
+      "cluster": 1,
       "name": "Ain't No Rest for the Wicked",
-      "artist": "Cage The Elephant",
+      "email": "Cage The Elephant",
       "id": "aint_no_rest_for_the_wicked_cage_the_elephant",
-      "playcount": 1765232
+      "influence": 1765232
     },
     {
-      "match": 0.124216,
+      "cluster": 1,
       "name": "Take Me Out",
-      "artist": "Franz Ferdinand",
+      "email": "Franz Ferdinand",
       "id": "take_me_out_franz_ferdinand",
-      "playcount": 7546001
+      "influence": 7546001
     },
     {
-      "match": 0.119592,
+      "cluster": 1,
       "name": "Gold Lion",
-      "artist": "Yeah Yeah Yeahs",
+      "email": "Yeah Yeah Yeahs",
       "id": "gold_lion_yeah_yeah_yeahs",
-      "playcount": 3631955
+      "influence": 3631955
     },
     {
-      "match": 1.0,
+      "cluster": 1,
       "name": "Pink Triangle",
-      "artist": "Weezer",
+      "email": "Weezer",
       "id": "pink_triangle_weezer",
-      "playcount": 968154
+      "influence": 968154
     },
     {
-      "match": 0.98093,
+      "cluster": 1,
       "name": "The Good Life",
-      "artist": "Weezer",
+      "email": "Weezer",
       "id": "the_good_life_weezer",
-      "playcount": 1153796
+      "influence": 1153796
     },
     {
-      "match": 0.122879,
+      "cluster": 1,
       "name": "Wave of Mutilation",
-      "artist": "Pixies",
+      "email": "Pixies",
       "id": "wave_of_mutilation_pixies",
-      "playcount": 2155069
+      "influence": 2155069
     },
     {
-      "match": 0.114134,
+      "cluster": 1,
       "name": "Hotel Yorba",
-      "artist": "The White Stripes",
+      "email": "The White Stripes",
       "id": "hotel_yorba_the_white_stripes",
-      "playcount": 1619676
+      "influence": 1619676
     },
     {
-      "match": 0.10857,
+      "cluster": 1,
       "name": "Loser",
-      "artist": "Beck",
+      "email": "Beck",
       "id": "loser_beck",
-      "playcount": 2812012
+      "influence": 2812012
     },
     {
-      "match": 0.102149,
+      "cluster": 1,
       "name": "3rd Planet",
-      "artist": "Modest Mouse",
+      "email": "Modest Mouse",
       "id": "3rd_planet_modest_mouse",
-      "playcount": 1628808
+      "influence": 1628808
     },
     {
-      "match": 0.100986,
+      "cluster": 1,
       "name": "Sweetness",
-      "artist": "Jimmy Eat World",
+      "email": "Jimmy Eat World",
       "id": "sweetness_jimmy_eat_world",
-      "playcount": 2759499
+      "influence": 2759499
     },
     {
-      "match": 0.0969931,
+      "cluster": 1,
       "name": "Today",
-      "artist": "The Smashing Pumpkins",
+      "email": "The Smashing Pumpkins",
       "id": "today_the_smashing_pumpkins",
-      "playcount": 3066444
+      "influence": 3066444
     },
     {
-      "match": 0.096698,
+      "cluster": 1,
       "name": "Never There",
-      "artist": "Cake",
+      "email": "Cake",
       "id": "never_there_cake",
-      "playcount": 1370458
+      "influence": 1370458
     },
     {
-      "match": 0.0955486,
+      "cluster": 1,
       "name": "1979",
-      "artist": "The Smashing Pumpkins",
+      "email": "The Smashing Pumpkins",
       "id": "1979_the_smashing_pumpkins",
-      "playcount": 4413989
+      "influence": 4413989
     },
     {
-      "match": 0.0953949,
+      "cluster": 1,
       "name": "Cut Your Hair",
-      "artist": "Pavement",
+      "email": "Pavement",
       "id": "cut_your_hair_pavement",
-      "playcount": 1110587
+      "influence": 1110587
     },
     {
-      "match": 0.0948385,
+      "cluster": 1,
       "name": "Big Me",
-      "artist": "Foo Fighters",
+      "email": "Foo Fighters",
       "id": "big_me_foo_fighters",
-      "playcount": 1986586
+      "influence": 1986586
     },
     {
-      "match": 0.0946449,
+      "cluster": 1,
       "name": "Flagpole Sitta",
-      "artist": "Harvey Danger",
+      "email": "Harvey Danger",
       "id": "flagpole_sitta_harvey_danger",
-      "playcount": 843254
+      "influence": 843254
     },
     {
-      "match": 0.0919438,
+      "cluster": 1,
       "name": "The Middle",
-      "artist": "Jimmy Eat World",
+      "email": "Jimmy Eat World",
       "id": "the_middle_jimmy_eat_world",
-      "playcount": 4310852
+      "influence": 4310852
     },
     {
-      "match": 0.0902518,
+      "cluster": 1,
       "name": "Where It's At",
-      "artist": "Beck",
+      "email": "Beck",
       "id": "where_its_at_beck",
-      "playcount": 1080372
+      "influence": 1080372
     },
     {
-      "match": 0.0900503,
+      "cluster": 1,
       "name": "Semi-Charmed Life",
-      "artist": "Third Eye Blind",
+      "email": "Third Eye Blind",
       "id": "semicharmed_life_third_eye_blind",
-      "playcount": 1656388
+      "influence": 1656388
     },
     {
-      "match": 1.0,
+      "cluster": 1,
       "name": "Perfect Situation",
-      "artist": "Weezer",
+      "email": "Weezer",
       "id": "perfect_situation_weezer",
-      "playcount": 1542528
+      "influence": 1542528
     },
     {
-      "match": 0.931396,
+      "cluster": 1,
       "name": "We Are All On Drugs",
-      "artist": "Weezer",
+      "email": "Weezer",
       "id": "we_are_all_on_drugs_weezer",
-      "playcount": 903937
+      "influence": 903937
     },
     {
-      "match": 0.230096,
+      "cluster": 1,
       "name": "Are You Gonna Be My Girl",
-      "artist": "Jet",
+      "email": "Jet",
       "id": "are_you_gonna_be_my_girl_jet",
-      "playcount": 3749303
+      "influence": 3749303
     },
     {
-      "match": 0.210591,
+      "cluster": 1,
       "name": "My Own Worst Enemy",
-      "artist": "Lit",
+      "email": "Lit",
       "id": "my_own_worst_enemy_lit",
-      "playcount": 916387
+      "influence": 916387
     },
     {
-      "match": 0.197191,
+      "cluster": 1,
       "name": "Seven Nation Army",
-      "artist": "The White Stripes",
+      "email": "The White Stripes",
       "id": "seven_nation_army_the_white_stripes",
-      "playcount": 6759497
+      "influence": 6759497
     },
     {
-      "match": 0.195582,
+      "cluster": 1,
       "name": "Drive",
-      "artist": "Incubus",
+      "email": "Incubus",
       "id": "drive_incubus",
-      "playcount": 4251319
+      "influence": 4251319
     },
     {
-      "match": 0.19467,
+      "cluster": 1,
       "name": "Gives You Hell",
-      "artist": "The All-American Rejects",
+      "email": "The All-American Rejects",
       "id": "gives_you_hell_the_allamerican_rejects",
-      "playcount": 3354512
+      "influence": 3354512
     },
     {
-      "match": 0.193623,
+      "cluster": 1,
       "name": "All Star",
-      "artist": "Smash Mouth",
+      "email": "Smash Mouth",
       "id": "all_star_smash_mouth",
-      "playcount": 2184886
+      "influence": 2184886
     },
     {
-      "match": 0.192597,
+      "cluster": 1,
       "name": "Icky Thump",
-      "artist": "The White Stripes",
+      "email": "The White Stripes",
       "id": "icky_thump_the_white_stripes",
-      "playcount": 2770214
+      "influence": 2770214
     },
     {
-      "match": 0.188114,
+      "cluster": 1,
       "name": "Mr. Brightside",
-      "artist": "The Killers",
+      "email": "The Killers",
       "id": "mr_brightside_the_killers",
-      "playcount": 11969795
+      "influence": 11969795
     },
     {
-      "match": 0.186788,
+      "cluster": 1,
       "name": "Learn to Fly",
-      "artist": "Foo Fighters",
+      "email": "Foo Fighters",
       "id": "learn_to_fly_foo_fighters",
-      "playcount": 4086033
+      "influence": 4086033
     },
     {
-      "match": 0.182136,
+      "cluster": 1,
       "name": "Move Along",
-      "artist": "The All-American Rejects",
+      "email": "The All-American Rejects",
       "id": "move_along_the_allamerican_rejects",
-      "playcount": 3740390
+      "influence": 3740390
     },
     {
-      "match": 0.181394,
+      "cluster": 1,
       "name": "Teenage Dirtbag",
-      "artist": "Wheatus",
+      "email": "Wheatus",
       "id": "teenage_dirtbag_wheatus",
-      "playcount": 1455316
+      "influence": 1455316
     },
     {
-      "match": 0.180852,
+      "cluster": 1,
       "name": "When You Were Young",
-      "artist": "The Killers",
+      "email": "The Killers",
       "id": "when_you_were_young_the_killers",
-      "playcount": 8073131
+      "influence": 8073131
     },
     {
-      "match": 0.179719,
+      "cluster": 1,
       "name": "Monkey Wrench",
-      "artist": "Foo Fighters",
+      "email": "Foo Fighters",
       "id": "monkey_wrench_foo_fighters",
-      "playcount": 3060274
+      "influence": 3060274
     },
     {
-      "match": 0.179496,
+      "cluster": 1,
       "name": "Back Against The Wall",
-      "artist": "Cage The Elephant",
+      "email": "Cage The Elephant",
       "id": "back_against_the_wall_cage_the_elephant",
-      "playcount": 744547
+      "influence": 744547
     },
     {
-      "match": 1.0,
+      "cluster": 1,
       "name": "Disappear",
-      "artist": "Motion City Soundtrack",
+      "email": "Motion City Soundtrack",
       "id": "disappear_motion_city_soundtrack",
-      "playcount": 273920
+      "influence": 273920
     },
     {
-      "match": 0.906315,
+      "cluster": 1,
       "name": "Pulp Fiction",
-      "artist": "Motion City Soundtrack",
+      "email": "Motion City Soundtrack",
       "id": "pulp_fiction_motion_city_soundtrack",
-      "playcount": 207805
+      "influence": 207805
     },
     {
-      "match": 0.105759,
+      "cluster": 1,
       "name": "Wow, I Can Get Sexual Too",
-      "artist": "Say Anything",
+      "email": "Say Anything",
       "id": "wow_i_can_get_sexual_too_say_anything",
-      "playcount": 1209223
+      "influence": 1209223
     },
     {
-      "match": 0.105194,
+      "cluster": 1,
       "name": "Admit It Again",
-      "artist": "Say Anything",
+      "email": "Say Anything",
       "id": "admit_it_again_say_anything",
-      "playcount": 32420
+      "influence": 32420
     },
     {
-      "match": 0.104846,
+      "cluster": 1,
       "name": "The Permanent Rain",
-      "artist": "The Dangerous Summer",
+      "email": "The Dangerous Summer",
       "id": "the_permanent_rain_the_dangerous_summer",
-      "playcount": 371631
+      "influence": 371631
     },
     {
-      "match": 0.0959652,
+      "cluster": 1,
       "name": "The American Scream",
-      "artist": "Alkaline Trio",
+      "email": "Alkaline Trio",
       "id": "the_american_scream_alkaline_trio",
-      "playcount": 169132
+      "influence": 169132
     },
     {
-      "match": 0.0904936,
+      "cluster": 1,
       "name": "With You Around",
-      "artist": "Yellowcard",
+      "email": "Yellowcard",
       "id": "with_you_around_yellowcard",
-      "playcount": 195252
+      "influence": 195252
     },
     {
-      "match": 0.0891629,
+      "cluster": 1,
       "name": "Nine In The Afternoon",
-      "artist": "Panic! At the Disco",
+      "email": "Panic! At the Disco",
       "id": "nine_in_the_afternoon_panic_at_the_disco",
-      "playcount": 2847075
+      "influence": 2847075
     },
     {
-      "match": 0.0891114,
+      "cluster": 1,
       "name": "7 Minutes In Heaven (Atavan Halen)",
-      "artist": "Fall Out Boy",
+      "email": "Fall Out Boy",
       "id": "7_minutes_in_heaven_atavan_halen_fall_out_boy",
-      "playcount": 1191323
+      "influence": 1191323
     },
     {
-      "match": 0.0890458,
+      "cluster": 1,
       "name": "Let It Happen",
-      "artist": "Jimmy Eat World",
+      "email": "Jimmy Eat World",
       "id": "let_it_happen_jimmy_eat_world",
-      "playcount": 868664
+      "influence": 868664
     },
     {
-      "match": 0.088649,
+      "cluster": 1,
       "name": "MakeDamnSure",
-      "artist": "Taking Back Sunday",
+      "email": "Taking Back Sunday",
       "id": "makedamnsure_taking_back_sunday",
-      "playcount": 1661656
+      "influence": 1661656
     },
     {
-      "match": 0.0873004,
+      "cluster": 1,
       "name": "Calling All Skeletons",
-      "artist": "Alkaline Trio",
+      "email": "Alkaline Trio",
       "id": "calling_all_skeletons_alkaline_trio",
-      "playcount": 602758
+      "influence": 602758
     },
     {
-      "match": 0.0864723,
+      "cluster": 1,
       "name": "Best Places To Be A Mom",
-      "artist": "Taking Back Sunday",
+      "email": "Taking Back Sunday",
       "id": "best_places_to_be_a_mom_taking_back_sunday",
-      "playcount": 105944
+      "influence": 105944
     },
     {
-      "match": 0.0856421,
+      "cluster": 1,
       "name": "Dirty Little Secret",
-      "artist": "The All-American Rejects",
+      "email": "The All-American Rejects",
       "id": "dirty_little_secret_the_allamerican_rejects",
-      "playcount": 3217886
+      "influence": 3217886
     },
     {
-      "match": 0.0836746,
+      "cluster": 1,
       "name": "When You See My Friends",
-      "artist": "Mayday Parade",
+      "email": "Mayday Parade",
       "id": "when_you_see_my_friends_mayday_parade",
-      "playcount": 99150
+      "influence": 99150
     },
     {
-      "match": 0.0830562,
+      "cluster": 1,
       "name": "Hold My Hand",
-      "artist": "New Found Glory",
+      "email": "New Found Glory",
       "id": "hold_my_hand_new_found_glory",
-      "playcount": 711710
+      "influence": 711710
     },
     {
-      "match": 0.948858,
+      "cluster": 1,
       "name": "Missing",
-      "artist": "Beck",
+      "email": "Beck",
       "id": "missing_beck",
-      "playcount": 854002
+      "influence": 854002
     },
     {
-      "match": 0.135732,
+      "cluster": 1,
       "name": "Heads Will Roll",
-      "artist": "Yeah Yeah Yeahs",
+      "email": "Yeah Yeah Yeahs",
       "id": "heads_will_roll_yeah_yeah_yeahs",
-      "playcount": 3553509
+      "influence": 3553509
     },
     {
-      "match": 0.132508,
+      "cluster": 1,
       "name": "Do You Realize??",
-      "artist": "The Flaming Lips",
+      "email": "The Flaming Lips",
       "id": "do_you_realize_the_flaming_lips",
-      "playcount": 1710735
+      "influence": 1710735
     },
     {
-      "match": 0.126263,
+      "cluster": 1,
       "name": "Fight Test",
-      "artist": "The Flaming Lips",
+      "email": "The Flaming Lips",
       "id": "fight_test_the_flaming_lips",
-      "playcount": 1457268
+      "influence": 1457268
     },
     {
-      "match": 0.126152,
+      "cluster": 1,
       "name": "Debaser",
-      "artist": "Pixies",
+      "email": "Pixies",
       "id": "debaser_pixies",
-      "playcount": 2775690
+      "influence": 2775690
     },
     {
-      "match": 0.116944,
+      "cluster": 1,
       "name": "Keep the Car Running",
-      "artist": "Arcade Fire",
+      "email": "Arcade Fire",
       "id": "keep_the_car_running_arcade_fire",
-      "playcount": 4025353
+      "influence": 4025353
     },
     {
-      "match": 0.116788,
+      "cluster": 1,
       "name": "Simple Song",
-      "artist": "The Shins",
+      "email": "The Shins",
       "id": "simple_song_the_shins",
-      "playcount": 709681
+      "influence": 709681
     },
     {
-      "match": 0.110281,
+      "cluster": 1,
       "name": "Sleeping Lessons",
-      "artist": "The Shins",
+      "email": "The Shins",
       "id": "sleeping_lessons_the_shins",
-      "playcount": 2467370
+      "influence": 2467370
     },
     {
-      "match": 0.106125,
+      "cluster": 1,
       "name": "Do You Want To",
-      "artist": "Franz Ferdinand",
+      "email": "Franz Ferdinand",
       "id": "do_you_want_to_franz_ferdinand",
-      "playcount": 3639881
+      "influence": 3639881
     },
     {
-      "match": 0.103974,
+      "cluster": 1,
       "name": "The Underdog",
-      "artist": "Spoon",
+      "email": "Spoon",
       "id": "the_underdog_spoon",
-      "playcount": 1490107
+      "influence": 1490107
     },
     {
-      "match": 0.103809,
+      "cluster": 1,
       "name": "Wolf Like Me",
-      "artist": "TV on the Radio",
+      "email": "TV on the Radio",
       "id": "wolf_like_me_tv_on_the_radio",
-      "playcount": 2406605
+      "influence": 2406605
     },
     {
-      "match": 0.101578,
+      "cluster": 1,
       "name": "Novocaine For The Soul",
-      "artist": "Eels",
+      "email": "Eels",
       "id": "novocaine_for_the_soul_eels",
-      "playcount": 1149355
+      "influence": 1149355
     },
     {
-      "match": 0.10148,
+      "cluster": 1,
       "name": "Feel Good Inc.",
-      "artist": "Gorillaz",
+      "email": "Gorillaz",
       "id": "feel_good_inc_gorillaz",
-      "playcount": 7114651
+      "influence": 7114651
     },
     {
-      "match": 0.0973722,
+      "cluster": 1,
       "name": "On Melancholy Hill",
-      "artist": "Gorillaz",
+      "email": "Gorillaz",
       "id": "on_melancholy_hill_gorillaz",
-      "playcount": 2879188
+      "influence": 2879188
     },
     {
-      "match": 0.0962112,
+      "cluster": 1,
       "name": "Here It Goes Again",
-      "artist": "OK Go",
+      "email": "OK Go",
       "id": "here_it_goes_again_ok_go",
-      "playcount": 2570744
+      "influence": 2570744
     },
     {
-      "match": 0.095436,
+      "cluster": 1,
       "name": "Staring At The Sun",
-      "artist": "TV on the Radio",
+      "email": "TV on the Radio",
       "id": "staring_at_the_sun_tv_on_the_radio",
-      "playcount": 1628394
+      "influence": 1628394
     },
     {
-      "match": 1.0,
+      "cluster": 1,
       "name": "Boll Weevil",
-      "artist": "The Presidents of the United States of America",
+      "email": "The Presidents of the United States of America",
       "id": "boll_weevil_the_presidents_of_the_united_states_of_america",
-      "playcount": 239772
+      "influence": 239772
     },
     {
-      "match": 0.996809,
+      "cluster": 1,
       "name": "Feather Pluckn",
-      "artist": "The Presidents of the United States of America",
+      "email": "The Presidents of the United States of America",
       "id": "feather_pluckn_the_presidents_of_the_united_states_of_america",
-      "playcount": 219311
+      "influence": 219311
     },
     {
-      "match": 0.0903238,
+      "cluster": 1,
       "name": "Sheep Go To Heaven",
-      "artist": "Cake",
+      "email": "Cake",
       "id": "sheep_go_to_heaven_cake",
-      "playcount": 592211
+      "influence": 592211
     },
     {
-      "match": 0.0821795,
+      "cluster": 1,
       "name": "Undone -- The Sweater Song",
-      "artist": "Weezer",
+      "email": "Weezer",
       "id": "undone__the_sweater_song_weezer",
-      "playcount": 278006
+      "influence": 278006
     },
     {
-      "match": 0.0811703,
+      "cluster": 1,
       "name": "My Name Is Jonas",
-      "artist": "Weezer",
+      "email": "Weezer",
       "id": "my_name_is_jonas_weezer",
-      "playcount": 2482208
+      "influence": 2482208
     },
     {
-      "match": 0.0712427,
+      "cluster": 1,
       "name": "Been Caught Stealing",
-      "artist": "Jane's Addiction",
+      "email": "Jane's Addiction",
       "id": "been_caught_stealing_janes_addiction",
-      "playcount": 890260
+      "influence": 890260
     },
     {
-      "match": 1.0,
+      "cluster": 1,
       "name": "Misunderstood",
-      "artist": "Better Than Ezra",
+      "email": "Better Than Ezra",
       "id": "misunderstood_better_than_ezra",
-      "playcount": 165988
+      "influence": 165988
     },
     {
-      "match": 0.990109,
+      "cluster": 1,
       "name": "Desperately Wanting",
-      "artist": "Better Than Ezra",
+      "email": "Better Than Ezra",
       "id": "desperately_wanting_better_than_ezra",
-      "playcount": 258496
+      "influence": 258496
     },
     {
-      "match": 0.369169,
+      "cluster": 1,
       "name": "Fall Down",
-      "artist": "Toad The Wet Sprocket",
+      "email": "Toad The Wet Sprocket",
       "id": "fall_down_toad_the_wet_sprocket",
-      "playcount": 176965
+      "influence": 176965
     },
     {
-      "match": 0.303904,
+      "cluster": 1,
       "name": "Something's Always Wrong",
-      "artist": "Toad The Wet Sprocket",
+      "email": "Toad The Wet Sprocket",
       "id": "somethings_always_wrong_toad_the_wet_sprocket",
-      "playcount": 254982
+      "influence": 254982
     },
     {
-      "match": 0.281979,
+      "cluster": 1,
       "name": "Follow You Down",
-      "artist": "Gin Blossoms",
+      "email": "Gin Blossoms",
       "id": "follow_you_down_gin_blossoms",
-      "playcount": 557450
+      "influence": 557450
     },
     {
-      "match": 0.274921,
+      "cluster": 1,
       "name": "Hey Jealousy",
-      "artist": "Gin Blossoms",
+      "email": "Gin Blossoms",
       "id": "hey_jealousy_gin_blossoms",
-      "playcount": 880509
+      "influence": 880509
     },
     {
-      "match": 0.237866,
+      "cluster": 1,
       "name": "Gel",
-      "artist": "Collective Soul",
+      "email": "Collective Soul",
       "id": "gel_collective_soul",
-      "playcount": 270719
+      "influence": 270719
     },
     {
-      "match": 0.229768,
+      "cluster": 1,
       "name": "6th Avenue Heartache",
-      "artist": "The Wallflowers",
+      "email": "The Wallflowers",
       "id": "6th_avenue_heartache_the_wallflowers",
-      "playcount": 449746
+      "influence": 449746
     },
     {
-      "match": 0.228447,
+      "cluster": 1,
       "name": "Precious Declaration",
-      "artist": "Collective Soul",
+      "email": "Collective Soul",
       "id": "precious_declaration_collective_soul",
-      "playcount": 195211
+      "influence": 195211
     },
     {
-      "match": 0.219318,
+      "cluster": 1,
       "name": "Wonderful",
-      "artist": "Everclear",
+      "email": "Everclear",
       "id": "wonderful_everclear",
-      "playcount": 633986
+      "influence": 633986
     },
     {
-      "match": 0.216453,
+      "cluster": 1,
       "name": "In the Meantime",
-      "artist": "Spacehog",
+      "email": "Spacehog",
       "id": "in_the_meantime_spacehog",
-      "playcount": 319381
+      "influence": 319381
     },
     {
-      "match": 0.215123,
+      "cluster": 1,
       "name": "Santa Monica",
-      "artist": "Everclear",
+      "email": "Everclear",
       "id": "santa_monica_everclear",
-      "playcount": 735256
+      "influence": 735256
     },
     {
-      "match": 0.2124,
+      "cluster": 1,
       "name": "Never Let You Go",
-      "artist": "Third Eye Blind",
+      "email": "Third Eye Blind",
       "id": "never_let_you_go_third_eye_blind",
-      "playcount": 1163205
+      "influence": 1163205
     },
     {
-      "match": 0.211897,
+      "cluster": 1,
       "name": "Open Up Your Eyes",
-      "artist": "Tonic",
+      "email": "Tonic",
       "id": "open_up_your_eyes_tonic",
-      "playcount": 154003
+      "influence": 154003
     },
     {
-      "match": 0.208184,
+      "cluster": 1,
       "name": "Semi-Charmed Life - 2006 Remastered LP Version",
-      "artist": "Third Eye Blind",
+      "email": "Third Eye Blind",
       "id": "semicharmed_life__2006_remastered_lp_version_third_eye_blind",
-      "playcount": 25594
+      "influence": 25594
     },
     {
-      "match": 0.207377,
+      "cluster": 1,
       "name": "Selling The Drama",
-      "artist": "Live",
+      "email": "Live",
       "id": "selling_the_drama_live",
-      "playcount": 647468
+      "influence": 647468
     },
     {
-      "match": 1.0,
+      "cluster": 1,
       "name": "Get Off",
-      "artist": "The Dandy Warhols",
+      "email": "The Dandy Warhols",
       "id": "get_off_the_dandy_warhols",
-      "playcount": 670163
+      "influence": 670163
     },
     {
-      "match": 0.859264,
+      "cluster": 1,
       "name": "Godless",
-      "artist": "The Dandy Warhols",
+      "email": "The Dandy Warhols",
       "id": "godless_the_dandy_warhols",
-      "playcount": 486817
+      "influence": 486817
     },
     {
-      "match": 0.279839,
+      "cluster": 1,
       "name": "Hate To Say I Told You So",
-      "artist": "The Hives",
+      "email": "The Hives",
       "id": "hate_to_say_i_told_you_so_the_hives",
-      "playcount": 2145269
+      "influence": 2145269
     },
     {
-      "match": 0.267787,
+      "cluster": 1,
       "name": "Ruby",
-      "artist": "Kaiser Chiefs",
+      "email": "Kaiser Chiefs",
       "id": "ruby_kaiser_chiefs",
-      "playcount": 4042099
+      "influence": 4042099
     },
     {
-      "match": 0.265021,
+      "cluster": 1,
       "name": "Club Foot",
-      "artist": "Kasabian",
+      "email": "Kasabian",
       "id": "club_foot_kasabian",
-      "playcount": 3366154
+      "influence": 3366154
     },
     {
-      "match": 0.262545,
+      "cluster": 1,
       "name": "Fire",
-      "artist": "Kasabian",
+      "email": "Kasabian",
       "id": "fire_kasabian",
-      "playcount": 2482536
+      "influence": 2482536
     },
     {
-      "match": 0.253106,
+      "cluster": 1,
       "name": "Grounds For Divorce",
-      "artist": "Elbow",
+      "email": "Elbow",
       "id": "grounds_for_divorce_elbow",
-      "playcount": 1579602
+      "influence": 1579602
     },
     {
-      "match": 0.238439,
+      "cluster": 1,
       "name": "I Predict A Riot",
-      "artist": "Kaiser Chiefs",
+      "email": "Kaiser Chiefs",
       "id": "i_predict_a_riot_kaiser_chiefs",
-      "playcount": 2846053
+      "influence": 2846053
     },
     {
-      "match": 0.216748,
+      "cluster": 1,
       "name": "Jerk It Out",
-      "artist": "Caesars",
+      "email": "Caesars",
       "id": "jerk_it_out_caesars",
-      "playcount": 1599444
+      "influence": 1599444
     },
     {
-      "match": 0.208111,
+      "cluster": 1,
       "name": "Tick Tick Boom",
-      "artist": "The Hives",
+      "email": "The Hives",
       "id": "tick_tick_boom_the_hives",
-      "playcount": 1842970
+      "influence": 1842970
     },
     {
-      "match": 0.206355,
+      "cluster": 1,
       "name": "Lazy Eye",
-      "artist": "Silversun Pickups",
+      "email": "Silversun Pickups",
       "id": "lazy_eye_silversun_pickups",
-      "playcount": 2199329
+      "influence": 2199329
     },
     {
-      "match": 0.201795,
+      "cluster": 1,
       "name": "The Ghost Inside",
-      "artist": "Broken Bells",
+      "email": "Broken Bells",
       "id": "the_ghost_inside_broken_bells",
-      "playcount": 1460705
+      "influence": 1460705
     },
     {
-      "match": 0.20021,
+      "cluster": 1,
       "name": "Maps",
-      "artist": "Yeah Yeah Yeahs",
+      "email": "Yeah Yeah Yeahs",
       "id": "maps_yeah_yeah_yeahs",
-      "playcount": 4870521
+      "influence": 4870521
     },
     {
-      "match": 0.199772,
+      "cluster": 1,
       "name": "Spread Your Love",
-      "artist": "Black Rebel Motorcycle Club",
+      "email": "Black Rebel Motorcycle Club",
       "id": "spread_your_love_black_rebel_motorcycle_club",
-      "playcount": 722079
+      "influence": 722079
     },
     {
-      "match": 0.190523,
+      "cluster": 1,
       "name": "The Way We Get By",
-      "artist": "Spoon",
+      "email": "Spoon",
       "id": "the_way_we_get_by_spoon",
-      "playcount": 1937360
+      "influence": 1937360
     },
     {
-      "match": 0.188899,
+      "cluster": 1,
       "name": "Delivery",
-      "artist": "Babyshambles",
+      "email": "Babyshambles",
       "id": "delivery_babyshambles",
-      "playcount": 1618334
+      "influence": 1618334
     },
     {
-      "match": 1.0,
+      "cluster": 1,
       "name": "Can't Get Enough Of You Baby",
-      "artist": "Smash Mouth",
+      "email": "Smash Mouth",
       "id": "cant_get_enough_of_you_baby_smash_mouth",
-      "playcount": 236749
+      "influence": 236749
     },
     {
-      "match": 0.97805,
+      "cluster": 1,
       "name": "Diggin' Your Scene",
-      "artist": "Smash Mouth",
+      "email": "Smash Mouth",
       "id": "diggin_your_scene_smash_mouth",
-      "playcount": 141996
+      "influence": 141996
     },
     {
-      "match": 0.240398,
+      "cluster": 1,
       "name": "Every Morning",
-      "artist": "Sugar Ray",
+      "email": "Sugar Ray",
       "id": "every_morning_sugar_ray",
-      "playcount": 601914
+      "influence": 601914
     },
     {
-      "match": 0.214948,
+      "cluster": 1,
       "name": "Someday",
-      "artist": "Sugar Ray",
+      "email": "Sugar Ray",
       "id": "someday_sugar_ray",
-      "playcount": 377436
+      "influence": 377436
     },
     {
-      "match": 0.210828,
+      "cluster": 1,
       "name": "The Way",
-      "artist": "Fastball",
+      "email": "Fastball",
       "id": "the_way_fastball",
-      "playcount": 820536
+      "influence": 820536
     },
     {
-      "match": 0.210025,
+      "cluster": 1,
       "name": "Absolutely (Story Of A Girl)",
-      "artist": "Nine Days",
+      "email": "Nine Days",
       "id": "absolutely_story_of_a_girl_nine_days",
-      "playcount": 777947
+      "influence": 777947
     },
     {
-      "match": 0.196136,
+      "cluster": 1,
       "name": "Inside Out",
-      "artist": "EVE 6",
+      "email": "EVE 6",
       "id": "inside_out_eve_6",
-      "playcount": 968548
+      "influence": 968548
     },
     {
-      "match": 0.179139,
+      "cluster": 1,
       "name": "Out Of My Head",
-      "artist": "Fastball",
+      "email": "Fastball",
       "id": "out_of_my_head_fastball",
-      "playcount": 485965
+      "influence": 485965
     },
     {
-      "match": 0.176923,
+      "cluster": 1,
       "name": "Tubthumping",
-      "artist": "Chumbawamba",
+      "email": "Chumbawamba",
       "id": "tubthumping_chumbawamba",
-      "playcount": 1425827
+      "influence": 1425827
     },
     {
-      "match": 0.174755,
+      "cluster": 1,
       "name": "One Week",
-      "artist": "Barenaked Ladies",
+      "email": "Barenaked Ladies",
       "id": "one_week_barenaked_ladies",
-      "playcount": 1470161
+      "influence": 1470161
     },
     {
-      "match": 0.170731,
+      "cluster": 1,
       "name": "Closing Time",
-      "artist": "Semisonic",
+      "email": "Semisonic",
       "id": "closing_time_semisonic",
-      "playcount": 1638395
+      "influence": 1638395
     },
     {
-      "match": 0.163453,
+      "cluster": 1,
       "name": "One Headlight",
-      "artist": "The Wallflowers",
+      "email": "The Wallflowers",
       "id": "one_headlight_the_wallflowers",
-      "playcount": 1578468
+      "influence": 1578468
     },
     {
-      "match": 0.16076,
+      "cluster": 1,
       "name": "It's All Been Done",
-      "artist": "Barenaked Ladies",
+      "email": "Barenaked Ladies",
       "id": "its_all_been_done_barenaked_ladies",
-      "playcount": 467606
+      "influence": 467606
     },
     {
-      "match": 0.160723,
+      "cluster": 1,
       "name": "Push",
-      "artist": "Matchbox Twenty",
+      "email": "Matchbox Twenty",
       "id": "push_matchbox_twenty",
-      "playcount": 1273563
+      "influence": 1273563
     },
     {
-      "match": 0.159975,
+      "cluster": 1,
       "name": "Save Tonight",
-      "artist": "Eagle-Eye Cherry",
+      "email": "Eagle-Eye Cherry",
       "id": "save_tonight_eagleeye_cherry",
-      "playcount": 2792801
+      "influence": 2792801
     },
     {
-      "match": 0.155125,
+      "cluster": 1,
       "name": "Two Princes",
-      "artist": "Spin Doctors",
+      "email": "Spin Doctors",
       "id": "two_princes_spin_doctors",
-      "playcount": 1536291
+      "influence": 1536291
     },
     {
-      "match": 0.987202,
+      "cluster": 1,
       "name": "Kick Out the Jams",
-      "artist": "The Presidents of the United States of America",
+      "email": "The Presidents of the United States of America",
       "id": "kick_out_the_jams_the_presidents_of_the_united_states_of_america",
-      "playcount": 240474
+      "influence": 240474
     },
     {
-      "match": 0.0901779,
+      "cluster": 1,
       "name": "Comfort Eagle",
-      "artist": "Cake",
+      "email": "Cake",
       "id": "comfort_eagle_cake",
-      "playcount": 857747
+      "influence": 857747
     },
     {
-      "match": 0.0731281,
+      "cluster": 1,
       "name": "Summerland",
-      "artist": "Everclear",
+      "email": "Everclear",
       "id": "summerland_everclear",
-      "playcount": 132627
+      "influence": 132627
     },
     {
-      "match": 0.0728621,
+      "cluster": 1,
       "name": "A Little Respect - Clean Album Version",
-      "artist": "Wheatus",
+      "email": "Wheatus",
       "id": "a_little_respect__clean_album_version_wheatus",
-      "playcount": 15163
+      "influence": 15163
     },
     {
-      "match": 0.0726529,
+      "cluster": 1,
       "name": "Normal Like You",
-      "artist": "Everclear",
+      "email": "Everclear",
       "id": "normal_like_you_everclear",
-      "playcount": 142017
+      "influence": 142017
     },
     {
-      "match": 0.0720511,
+      "cluster": 1,
       "name": "Die Laughing",
-      "artist": "Therapy?",
+      "email": "Therapy?",
       "id": "die_laughing_therapy",
-      "playcount": 136787
+      "influence": 136787
     },
     {
-      "match": 0.0709126,
+      "cluster": 1,
       "name": "Down",
-      "artist": "311",
+      "email": "311",
       "id": "down_311",
-      "playcount": 666651
+      "influence": 666651
     },
     {
-      "match": 0.0708641,
+      "cluster": 1,
       "name": "Cough Syrup",
-      "artist": "Butthole Surfers",
+      "email": "Butthole Surfers",
       "id": "cough_syrup_butthole_surfers",
-      "playcount": 75543
+      "influence": 75543
     },
     {
-      "match": 1.0,
+      "cluster": 1,
       "name": "Eddie's Ragga",
-      "artist": "Spoon",
+      "email": "Spoon",
       "id": "eddies_ragga_spoon",
-      "playcount": 620652
+      "influence": 620652
     },
     {
-      "match": 0.974134,
+      "cluster": 1,
       "name": "Don't Make Me a Target",
-      "artist": "Spoon",
+      "email": "Spoon",
       "id": "dont_make_me_a_target_spoon",
-      "playcount": 943754
+      "influence": 943754
     },
     {
-      "match": 0.243911,
+      "cluster": 1,
       "name": "Australia",
-      "artist": "The Shins",
+      "email": "The Shins",
       "id": "australia_the_shins",
-      "playcount": 3195616
+      "influence": 3195616
     },
     {
-      "match": 0.215355,
+      "cluster": 1,
       "name": "Mansard Roof",
-      "artist": "Vampire Weekend",
+      "email": "Vampire Weekend",
       "id": "mansard_roof_vampire_weekend",
-      "playcount": 2925207
+      "influence": 2925207
     },
     {
-      "match": 0.203908,
+      "cluster": 1,
       "name": "Hang Me Up to Dry",
-      "artist": "Cold War Kids",
+      "email": "Cold War Kids",
       "id": "hang_me_up_to_dry_cold_war_kids",
-      "playcount": 2527597
+      "influence": 2527597
     },
     {
-      "match": 0.202358,
+      "cluster": 1,
       "name": "Missed The Boat",
-      "artist": "Modest Mouse",
+      "email": "Modest Mouse",
       "id": "missed_the_boat_modest_mouse",
-      "playcount": 1866208
+      "influence": 1866208
     },
     {
-      "match": 0.201518,
+      "cluster": 1,
       "name": "Satellite",
-      "artist": "Guster",
+      "email": "Guster",
       "id": "satellite_guster",
-      "playcount": 601455
+      "influence": 601455
     },
     {
-      "match": 0.187605,
+      "cluster": 1,
       "name": "Lasso",
-      "artist": "Phoenix",
+      "email": "Phoenix",
       "id": "lasso_phoenix",
-      "playcount": 2575518
+      "influence": 2575518
     },
     {
-      "match": 0.181141,
+      "cluster": 1,
       "name": "The High Road",
-      "artist": "Broken Bells",
+      "email": "Broken Bells",
       "id": "the_high_road_broken_bells",
-      "playcount": 2207334
+      "influence": 2207334
     },
     {
-      "match": 0.177934,
+      "cluster": 1,
       "name": "Bryn",
-      "artist": "Vampire Weekend",
+      "email": "Vampire Weekend",
       "id": "bryn_vampire_weekend",
-      "playcount": 2055388
+      "influence": 2055388
     },
     {
-      "match": 0.175093,
+      "cluster": 1,
       "name": "Can You Tell",
-      "artist": "Ra Ra Riot",
+      "email": "Ra Ra Riot",
       "id": "can_you_tell_ra_ra_riot",
-      "playcount": 1261949
+      "influence": 1261949
     },
     {
-      "match": 0.171582,
+      "cluster": 1,
       "name": "Lake Michigan",
-      "artist": "Rogue Wave",
+      "email": "Rogue Wave",
       "id": "lake_michigan_rogue_wave",
-      "playcount": 623635
+      "influence": 623635
     },
     {
-      "match": 0.161437,
+      "cluster": 1,
       "name": "Mistaken For Strangers",
-      "artist": "The National",
+      "email": "The National",
       "id": "mistaken_for_strangers_the_national",
-      "playcount": 2599835
+      "influence": 2599835
     },
     {
-      "match": 0.149479,
+      "cluster": 1,
       "name": "Sun Hands",
-      "artist": "Local Natives",
+      "email": "Local Natives",
       "id": "sun_hands_local_natives",
-      "playcount": 1059843
+      "influence": 1059843
     },
     {
-      "match": 0.148282,
+      "cluster": 1,
       "name": "Good To Sea",
-      "artist": "Pinback",
+      "email": "Pinback",
       "id": "good_to_sea_pinback",
-      "playcount": 417116
+      "influence": 417116
     },
     {
-      "match": 0.147597,
+      "cluster": 1,
       "name": "Such Great Heights",
-      "artist": "The Postal Service",
+      "email": "The Postal Service",
       "id": "such_great_heights_the_postal_service",
-      "playcount": 7594131
+      "influence": 7594131
     },
     {
-      "match": 1.0,
+      "cluster": 1,
       "name": "Your Racist Friend",
-      "artist": "They Might Be Giants",
+      "email": "They Might Be Giants",
       "id": "your_racist_friend_they_might_be_giants",
-      "playcount": 208963
+      "influence": 208963
     },
     {
-      "match": 0.967684,
+      "cluster": 1,
       "name": "Dead",
-      "artist": "They Might Be Giants",
+      "email": "They Might Be Giants",
       "id": "dead_they_might_be_giants",
-      "playcount": 160060
+      "influence": 160060
     },
     {
-      "match": 0.0985824,
+      "cluster": 1,
       "name": "4 Out Of 5",
-      "artist": "Soul Coughing",
+      "email": "Soul Coughing",
       "id": "4_out_of_5_soul_coughing",
-      "playcount": 55286
+      "influence": 55286
     },
     {
-      "match": 0.0983752,
+      "cluster": 1,
       "name": "Disseminated",
-      "artist": "Soul Coughing",
+      "email": "Soul Coughing",
       "id": "disseminated_soul_coughing",
-      "playcount": 64799
+      "influence": 64799
     },
     {
-      "match": 0.0939001,
+      "cluster": 1,
       "name": "Haiku",
-      "artist": "Tally Hall",
+      "email": "Tally Hall",
       "id": "haiku_tally_hall",
-      "playcount": 58095
+      "influence": 58095
     },
     {
-      "match": 0.0918885,
+      "cluster": 1,
       "name": "Repo Man",
-      "artist": "Frank Black",
+      "email": "Frank Black",
       "id": "repo_man_frank_black",
-      "playcount": 801
+      "influence": 801
     },
     {
-      "match": 0.0916222,
+      "cluster": 1,
       "name": "Kiss Off",
-      "artist": "Violent Femmes",
+      "email": "Violent Femmes",
       "id": "kiss_off_violent_femmes",
-      "playcount": 748978
+      "influence": 748978
     },
     {
-      "match": 0.0912474,
+      "cluster": 1,
       "name": "Happiness Writes White",
-      "artist": "Harvey Danger",
+      "email": "Harvey Danger",
       "id": "happiness_writes_white_harvey_danger",
-      "playcount": 119581
+      "influence": 119581
     },
     {
-      "match": 0.0895063,
+      "cluster": 1,
       "name": "Pepper",
-      "artist": "Butthole Surfers",
+      "email": "Butthole Surfers",
       "id": "pepper_butthole_surfers",
-      "playcount": 534477
+      "influence": 534477
     },
     {
-      "match": 0.0881426,
+      "cluster": 1,
       "name": "The Spark That Bled",
-      "artist": "The Flaming Lips",
+      "email": "The Flaming Lips",
       "id": "the_spark_that_bled_the_flaming_lips",
-      "playcount": 473340
+      "influence": 473340
     },
     {
-      "match": 0.0850339,
+      "cluster": 1,
       "name": "Body",
-      "artist": "The Presidents of the United States of America",
+      "email": "The Presidents of the United States of America",
       "id": "body_the_presidents_of_the_united_states_of_america",
-      "playcount": 171375
+      "influence": 171375
     },
     {
-      "match": 0.0849562,
+      "cluster": 1,
       "name": "Roses Are Free",
-      "artist": "Ween",
+      "email": "Ween",
       "id": "roses_are_free_ween",
-      "playcount": 132198
+      "influence": 132198
     },
     {
-      "match": 0.0848016,
+      "cluster": 1,
       "name": "Good Day",
-      "artist": "Tally Hall",
+      "email": "Tally Hall",
       "id": "good_day_tally_hall",
-      "playcount": 134630
+      "influence": 134630
     },
     {
-      "match": 0.0840867,
+      "cluster": 1,
       "name": "Never Is Enough",
-      "artist": "Barenaked Ladies",
+      "email": "Barenaked Ladies",
       "id": "never_is_enough_barenaked_ladies",
-      "playcount": 138941
+      "influence": 138941
     },
     {
-      "match": 0.0815485,
+      "cluster": 1,
       "name": "Volcano",
-      "artist": "The Presidents of the United States of America",
+      "email": "The Presidents of the United States of America",
       "id": "volcano_the_presidents_of_the_united_states_of_america",
-      "playcount": 86038
+      "influence": 86038
     },
     {
-      "match": 0.0809143,
+      "cluster": 1,
       "name": "New Hampshire",
-      "artist": "John Linnell",
+      "email": "John Linnell",
       "id": "new_hampshire_john_linnell",
-      "playcount": 8518
+      "influence": 8518
     },
     {
-      "match": 1.0,
+      "cluster": 1,
       "name": "Holiday",
-      "artist": "Jet",
+      "email": "Jet",
       "id": "holiday_jet",
-      "playcount": 230024
+      "influence": 230024
     },
     {
-      "match": 0.959455,
+      "cluster": 1,
       "name": "That's All Lies",
-      "artist": "Jet",
+      "email": "Jet",
       "id": "thats_all_lies_jet",
-      "playcount": 190463
+      "influence": 190463
     },
     {
-      "match": 0.135068,
+      "cluster": 1,
       "name": "Get Free",
-      "artist": "The Vines",
+      "email": "The Vines",
       "id": "get_free_the_vines",
-      "playcount": 1294859
+      "influence": 1294859
     },
     {
-      "match": 0.12536,
+      "cluster": 1,
       "name": "Pork And Beans",
-      "artist": "Weezer",
+      "email": "Weezer",
       "id": "pork_and_beans_weezer",
-      "playcount": 2004387
+      "influence": 2004387
     },
     {
-      "match": 0.122447,
+      "cluster": 1,
       "name": "Ride",
-      "artist": "The Vines",
+      "email": "The Vines",
       "id": "ride_the_vines",
-      "playcount": 938359
+      "influence": 938359
     },
     {
-      "match": 0.121971,
+      "cluster": 1,
       "name": "Arlandria",
-      "artist": "Foo Fighters",
+      "email": "Foo Fighters",
       "id": "arlandria_foo_fighters",
-      "playcount": 1232346
+      "influence": 1232346
     },
     {
-      "match": 0.119426,
+      "cluster": 1,
       "name": "Back & Forth",
-      "artist": "Foo Fighters",
+      "email": "Foo Fighters",
       "id": "back__forth_foo_fighters",
-      "playcount": 811809
+      "influence": 811809
     },
     {
-      "match": 0.119389,
+      "cluster": 1,
       "name": "Money Maker",
-      "artist": "The Black Keys",
+      "email": "The Black Keys",
       "id": "money_maker_the_black_keys",
-      "playcount": 623125
+      "influence": 623125
     },
     {
-      "match": 0.116173,
+      "cluster": 1,
       "name": "Anna Molly",
-      "artist": "Incubus",
+      "email": "Incubus",
       "id": "anna_molly_incubus",
-      "playcount": 3422195
+      "influence": 3422195
     },
     {
-      "match": 0.116038,
+      "cluster": 1,
       "name": "Consoler of the Lonely",
-      "artist": "The Raconteurs",
+      "email": "The Raconteurs",
       "id": "consoler_of_the_lonely_the_raconteurs",
-      "playcount": 1113904
+      "influence": 1113904
     },
     {
-      "match": 0.11517,
+      "cluster": 1,
       "name": "In One Ear",
-      "artist": "Cage The Elephant",
+      "email": "Cage The Elephant",
       "id": "in_one_ear_cage_the_elephant",
-      "playcount": 882864
+      "influence": 882864
     },
     {
-      "match": 0.114517,
+      "cluster": 1,
       "name": "Take It Or Leave It",
-      "artist": "The Strokes",
+      "email": "The Strokes",
       "id": "take_it_or_leave_it_the_strokes",
-      "playcount": 2282387
+      "influence": 2282387
     },
     {
-      "match": 0.113285,
+      "cluster": 1,
       "name": "Chelsea Dagger",
-      "artist": "The Fratellis",
+      "email": "The Fratellis",
       "id": "chelsea_dagger_the_fratellis",
-      "playcount": 3420324
+      "influence": 3420324
     },
     {
-      "match": 0.112737,
+      "cluster": 1,
       "name": "Radioactive",
-      "artist": "Kings of Leon",
+      "email": "Kings of Leon",
       "id": "radioactive_kings_of_leon",
-      "playcount": 1926654
+      "influence": 1926654
     },
     {
-      "match": 0.11186,
+      "cluster": 1,
       "name": "My Best Theory",
-      "artist": "Jimmy Eat World",
+      "email": "Jimmy Eat World",
       "id": "my_best_theory_jimmy_eat_world",
-      "playcount": 306583
+      "influence": 306583
     },
     {
-      "match": 0.108629,
+      "cluster": 1,
       "name": "Exo-Politics",
-      "artist": "Muse",
+      "email": "Muse",
       "id": "exopolitics_muse",
-      "playcount": 3486299
+      "influence": 3486299
     },
     {
-      "match": 1.0,
+      "cluster": 1,
       "name": "The Nurse",
-      "artist": "The White Stripes",
+      "email": "The White Stripes",
       "id": "the_nurse_the_white_stripes",
-      "playcount": 860750
+      "influence": 860750
     },
     {
-      "match": 0.969572,
+      "cluster": 1,
       "name": "My Doorbell",
-      "artist": "The White Stripes",
+      "email": "The White Stripes",
       "id": "my_doorbell_the_white_stripes",
-      "playcount": 2063796
+      "influence": 2063796
     },
     {
-      "match": 0.262241,
+      "cluster": 1,
       "name": "Sixteen Saltines",
-      "artist": "Jack White",
+      "email": "Jack White",
       "id": "sixteen_saltines_jack_white",
-      "playcount": 448061
+      "influence": 448061
     },
     {
-      "match": 0.252695,
+      "cluster": 1,
       "name": "Treat Me Like Your Mother",
-      "artist": "The Dead Weather",
+      "email": "The Dead Weather",
       "id": "treat_me_like_your_mother_the_dead_weather",
-      "playcount": 1072048
+      "influence": 1072048
     },
     {
-      "match": 0.244881,
+      "cluster": 1,
       "name": "I Cut Like a Buffalo",
-      "artist": "The Dead Weather",
+      "email": "The Dead Weather",
       "id": "i_cut_like_a_buffalo_the_dead_weather",
-      "playcount": 870328
+      "influence": 870328
     },
     {
-      "match": 0.232185,
+      "cluster": 1,
       "name": "Love Interruption",
-      "artist": "Jack White",
+      "email": "Jack White",
       "id": "love_interruption_jack_white",
-      "playcount": 534280
+      "influence": 534280
     },
     {
-      "match": 0.181747,
+      "cluster": 1,
       "name": "Reptilia",
-      "artist": "The Strokes",
+      "email": "The Strokes",
       "id": "reptilia_the_strokes",
-      "playcount": 5731655
+      "influence": 5731655
     },
     {
-      "match": 0.179571,
+      "cluster": 1,
       "name": "Juicebox",
-      "artist": "The Strokes",
+      "email": "The Strokes",
       "id": "juicebox_the_strokes",
-      "playcount": 3776949
+      "influence": 3776949
     },
     {
-      "match": 0.174349,
+      "cluster": 1,
       "name": "Heart Is A Beating Drum",
-      "artist": "The Kills",
+      "email": "The Kills",
       "id": "heart_is_a_beating_drum_the_kills",
-      "playcount": 340983
+      "influence": 340983
     },
     {
-      "match": 0.172264,
+      "cluster": 1,
       "name": "Cheap and Cheerful",
-      "artist": "The Kills",
+      "email": "The Kills",
       "id": "cheap_and_cheerful_the_kills",
-      "playcount": 1601039
+      "influence": 1601039
     },
     {
-      "match": 0.171571,
+      "cluster": 1,
       "name": "No One Knows",
-      "artist": "Queens of the Stone Age",
+      "email": "Queens of the Stone Age",
       "id": "no_one_knows_queens_of_the_stone_age",
-      "playcount": 4564054
+      "influence": 4564054
     },
     {
-      "match": 0.15676,
+      "cluster": 1,
       "name": "All My Life",
-      "artist": "Foo Fighters",
+      "email": "Foo Fighters",
       "id": "all_my_life_foo_fighters",
-      "playcount": 3782607
+      "influence": 3782607
     },
     {
-      "match": 0.156282,
+      "cluster": 1,
       "name": "Plug In Baby",
-      "artist": "Muse",
+      "email": "Muse",
       "id": "plug_in_baby_muse",
-      "playcount": 5482044
+      "influence": 5482044
     },
     {
-      "match": 0.155022,
+      "cluster": 1,
       "name": "Go With The Flow",
-      "artist": "Queens of the Stone Age",
+      "email": "Queens of the Stone Age",
       "id": "go_with_the_flow_queens_of_the_stone_age",
-      "playcount": 3941567
+      "influence": 3941567
     },
     {
-      "match": 0.15093,
+      "cluster": 1,
       "name": "Hysteria",
-      "artist": "Muse",
+      "email": "Muse",
       "id": "hysteria_muse",
-      "playcount": 8345744
+      "influence": 8345744
     },
     {
-      "match": 0.150542,
+      "cluster": 1,
       "name": "Underdog",
-      "artist": "Kasabian",
+      "email": "Kasabian",
       "id": "underdog_kasabian",
-      "playcount": 2603521
+      "influence": 2603521
     }
   ],
   "links": [

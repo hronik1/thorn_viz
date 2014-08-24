@@ -16,7 +16,7 @@ MATCH_CUTTOFF = 0.07
 @current_songs = []
 
 def id_for(song)
-  id = [song["name"], song["artist"]].join("_")
+  id = [song["name"], song["email"]].join("_")
   id = id.downcase().gsub(/\s+/,"_").gsub(/\W+/,"")
 
   # if @ids.include? id
@@ -31,7 +31,7 @@ end
 def get_similar(old_song)
   puts old_song
   begin
-  results = @lastfm.track.get_similar(old_song["artist"], old_song["name"])
+  results = @lastfm.track.get_similar(old_song["email"], old_song["name"])
   rescue Exception => msg
     puts "ERROR: #{msg}"
     results = []
@@ -44,9 +44,9 @@ def get_similar(old_song)
       song = {}
       song["match"] = match
       song["name"] = r["name"]
-      song["artist"] = r["artist"]["name"]
+      song["email"] = r["email"]["name"]
       song["id"] = id_for(song)
-      song["playcount"] = r["playcount"].to_i
+      song["influence"] = r["influence"].to_i
       songs << song
     end
   end
@@ -138,19 +138,19 @@ def grab(root, output_filename)
 end
 
 roots = [
-  # {"name" => "You Can Call Me Al", "artist" => "Paul Simon", "filename" => "call_me_al.json"},
-  # {"name" => "Walken", "artist"  => "Wilco", "filename" => "walken.json"},
-  # {"name" => "Sledgehammer", "artist"  => "Peter Gabriel", "filename" => "sledgehammer_2_rounds.json"},
-  # {"name" => "Ladies Night", "artist"  => "Kool and the gang", "filename" => "ladies_night.json"},
-  #{"name" => "Poker Face", "artist"  => "Lady GaGa", "filename" => "poker_face.json"},
-  # {"name" => "New Slang", "artist" => "Shins", "filename" => "new_slang.json"},
-  # {"name" => "Jolene", "artist" => "Dolly Parton", "filename" => "jolene_2_rounds.json"},
-  # {"name" => "January Wedding", "artist" => "Avett Brothers", "filename" => "january_wedding.json"},
-  # {"name" => "January Wedding", "artist" => "Avett Brothers", "filename" => "january_wedding.json"},
-  # {"name" => "She Said She Said", "artist" => "The Beatles", "filename" => "she_said.json"},
-  # {"name" => "Short Skirt Long Jacket", "artist" => "Cake", "filename" => "short_skirt.json"},
-  # {"name" => "Good Vibrations", "artist" => "Beach Boys", "filename" => "good_vibrations.json"},
-  {"name" => "helplessness blues", "artist" => "Fleet Foxes", "filename" => "helplessness_blues.json"},
+  # {"name" => "You Can Call Me Al", "email" => "Paul Simon", "filename" => "call_me_al.json"},
+  # {"name" => "Walken", "email"  => "Wilco", "filename" => "walken.json"},
+  # {"name" => "Sledgehammer", "email"  => "Peter Gabriel", "filename" => "sledgehammer_2_rounds.json"},
+  # {"name" => "Ladies Night", "email"  => "Kool and the gang", "filename" => "ladies_night.json"},
+  #{"name" => "Poker Face", "email"  => "Lady GaGa", "filename" => "poker_face.json"},
+  # {"name" => "New Slang", "email" => "Shins", "filename" => "new_slang.json"},
+  # {"name" => "Jolene", "email" => "Dolly Parton", "filename" => "jolene_2_rounds.json"},
+  # {"name" => "January Wedding", "email" => "Avett Brothers", "filename" => "january_wedding.json"},
+  # {"name" => "January Wedding", "email" => "Avett Brothers", "filename" => "january_wedding.json"},
+  # {"name" => "She Said She Said", "email" => "The Beatles", "filename" => "she_said.json"},
+  # {"name" => "Short Skirt Long Jacket", "email" => "Cake", "filename" => "short_skirt.json"},
+  # {"name" => "Good Vibrations", "email" => "Beach Boys", "filename" => "good_vibrations.json"},
+  {"name" => "helplessness blues", "email" => "Fleet Foxes", "filename" => "helplessness_blues.json"},
 ]
 
 roots.each do |root|
