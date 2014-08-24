@@ -182,10 +182,15 @@ Network = () ->
   # Returns array of nodes
   filterNodes = (allNodes) ->
     filteredNodes = allNodes
-    if filter == "active"
+    if filter == "influential" or filter == "likers" or filter == "posters"
       cutoff = 0
       filteredNodes = allNodes.filter (n) ->
+        if filter == "influential"
           n.influence > cutoff
+        else if filter == "likers"
+          n.likes > cutoff
+        else if filter == "posters"
+          n.posts > cutoff
 
     filteredNodes
 
