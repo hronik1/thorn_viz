@@ -182,7 +182,7 @@ Network = () ->
   # Returns array of nodes
   filterNodes = (allNodes) ->
     filteredNodes = allNodes
-    if filter == "influential" or filter == "likers" or filter == "posters"
+    if filter == "influential" or filter == "likers" or filter == "posters" or filter == "activity"
       cutoff = 0
       filteredNodes = allNodes.filter (n) ->
         if filter == "influential"
@@ -191,6 +191,8 @@ Network = () ->
           n.likes > cutoff
         else if filter == "posters"
           n.posts > cutoff
+        else if filter == "activity"
+          n.posts > cutoff or n.likes > cutoff
 
     filteredNodes
 
@@ -298,6 +300,8 @@ Network = () ->
     content = '<p class="main">' + d.name + '</span></p>'
     content += '<hr class="tooltip-hr">'
     content += '<p class="main">' + d.email + '</span></p>'
+    content += '<hr class="tooltip-hr">'
+    content += '<p class="main">' + d.id + '</span></p>'
     tooltip.showTooltip(content,d3.event)
 
     # higlight connected links
@@ -359,5 +363,5 @@ $ ->
     searchTerm = $(this).val()
     myNetwork.updateSearch(searchTerm)
 
-  d3.json "data/call_me_al.json", (json) ->
+  d3.json "data/q3cF1J8yQlGlB2hRJeoVhw.json", (json) ->
     myNetwork("#vis", json)
