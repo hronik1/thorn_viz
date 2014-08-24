@@ -24,6 +24,7 @@ Network = () ->
   layout = "force"
   filter = "all"
   sort = "songs"
+  search = ""
   # groupCenters will store our radial layout for
   # the group by email layout.
   groupCenters = null
@@ -103,6 +104,7 @@ Network = () ->
   # Public function to update highlighted nodes
   # from search
   network.updateSearch = (searchTerm) ->
+    search = searchTerm
     searchRegEx = new RegExp(searchTerm.toLowerCase())
     node.each (d) ->
       element = d3.select(this)
@@ -114,7 +116,7 @@ Network = () ->
         d.searched = true
       else
         d.searched = false
-        element.style("fill", (d) -> nodeColors(d.email))
+        element.style("fill", (d) -> nodeColors(d.cluster))
           .style("stroke-width", 1.0)
 
   network.updateData = (newData) ->
@@ -353,15 +355,22 @@ $ ->
     newFilter = d3.select(this).attr("id")
     activate("filters", newFilter)
     myNetwork.toggleFilter(newFilter)
+    jQuery ->
+      input = $('#search').val()
+      myNetwork.updateSearch(input)
 
   $("#thread_select").on "change", (e) ->
-    songFile = $(this).val()
-    d3.json "data/#{songFile}", (json) ->
+    threadFile = $(this).val()
+    d3.json "data/#{threadFile}", (json) ->
       myNetwork.updateData(json)
+      jQuery ->
+        input = $('#search').val()
+        myNetwork.updateSearch(input)
   
   $("#search").keyup () ->
     searchTerm = $(this).val()
     myNetwork.updateSearch(searchTerm)
 
-  d3.json "data/q3cF1J8yQlGlB2hRJeoVhw.json", (json) ->
+  threadFile = $("#thread_select").val()
+  d3.json "data/#{threadFile}", (json) ->
     myNetwork("#vis", json)
